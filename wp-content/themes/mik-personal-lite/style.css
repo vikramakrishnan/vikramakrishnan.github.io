@@ -62,6 +62,12 @@ input[type="submit"],
     border-color: #ce3d3f; 
 }
 
+/* Quick fix to reduce size of Feature Images on posts Page */ 
+img.attachment-full.size-full.wp-post-image {
+    height: 200px;
+}
+/* End Quickfix */
+
 .page-header span.author-name,
 .blog-posts-wrapper .entry-container a.btn.btn-transparent,
 .comment-meta .url,
