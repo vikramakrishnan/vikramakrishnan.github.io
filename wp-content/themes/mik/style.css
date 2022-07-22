@@ -62,6 +62,60 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 .entry-content a {
  color :blue;
 }
+
+/*center the heading and lines*/
+
+h3.pa-heading-line-both {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+/*add and adjust the lines*/
+h3.pa-heading-line-both::before,
+h3.pa-heading-line-both::after {
+	content: '';
+	border-top: 2px solid;
+	margin: 0 20px 0 0;
+	flex: 1 0 20px;
+	color: #ccc;
+}
+/*add spacing between heading and lines*/
+
+h3.pa-heading-line-both::after {
+	margin: 0 0 0 20px;
+}
+
+/* Flaired edges, by Tomas Theunissen */
+
+hr.flaired {
+    overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+	background-color:transparent;
+}
+hr.flaired:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+ul.spaced li {
+	padding: 10px;
+}
+ul.spaced {
+	margin:auto;
+	columns:2;
+}
 /* Customizations end */ 
 
 /*--------------------------------------------------------------
@@ -1341,6 +1395,7 @@ ol.comment-list:after,
 }
 .widget a {
 	font-weight: 400;
+	text-decoration: underline; /* Vikram -- Added */
 }
 .widget:last-child {
     margin-bottom: 0;
@@ -1422,7 +1477,7 @@ form.search-form input {
     margin-top: 0;
 }
 .widget li {
-	list-style: none;
+	list-style: disc;
 }
 .widget .social-icons li:before,
 .widget.widget_instagram li:before {
@@ -1537,13 +1592,15 @@ form.search-form input {
 }
 #secondary ul,
 #secondary ol {
-	padding-left: 0;
+ 	padding-left: 0; 
 }
-#secondary .widget ul li a {
-	color: #272B2F;
+/* The following block had "a" and i removed it for resume sidebar appearance */
+#secondary .widget ul li {
+/*	color: #272B2F; Commenting this as it's messing up the resume sidebar */
 }
-#secondary .widget ul li a:hover {
-	color: #d18f7f;
+/* The following block had "a:hover" and i removed it for resume sidebar appearance*/
+#secondary .widget ul li {
+/*	color: #d18f7f; Commenting this as it's messing up the resume sidebar */
 }
 #secondary .widget-title span,
 #secondary .widgettitle span {
