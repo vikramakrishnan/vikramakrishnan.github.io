@@ -1592,7 +1592,7 @@ form.search-form input {
 }
 #secondary ul,
 #secondary ol {
- 	padding-left: 0; 
+ 	padding-left: 10px; 
 }
 /* The following block had "a" and i removed it for resume sidebar appearance */
 #secondary .widget ul li {
@@ -2378,7 +2378,7 @@ section {
 }
 .wrapper {
     width: 90%;
-    max-width: 1200px;
+/*    max-width: 1200px; /* Vikram -- Commenting this to make the theme use more space */
     margin: 0 auto;
 }
 .row {
