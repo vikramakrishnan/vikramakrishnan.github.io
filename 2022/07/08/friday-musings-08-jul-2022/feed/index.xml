@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/mySite/2022/07/08/friday-musings-08-jul-2022/feed/" rel="self" type="application/rss+xml" />
 	<link>/2022/07/08/friday-musings-08-jul-2022/</link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sun, 10 Jul 2022 09:51:46 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jul 2022 12:57:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 </channel>
 </rss>
