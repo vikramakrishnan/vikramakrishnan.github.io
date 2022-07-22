@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sun, 10 Jul 2022 12:57:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jul 2022 05:48:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>What Gardening teaches you about management!</title>
 		<link>/2021/08/22/management/</link>
-					<comments>/2021/08/22/management/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sun, 22 Aug 2021 14:34:00 +0000</pubDate>
@@ -138,8 +137,6 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/08/22/management/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

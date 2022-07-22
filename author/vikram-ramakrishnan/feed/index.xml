@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/author/vikram-ramakrishnan/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Fri, 22 Jul 2022 05:35:06 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jul 2022 05:48:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>Friday Musings 22/Jul/2022</title>
 		<link>/2022/07/22/friday-musings-22-jul-2022/</link>
-					<comments>/2022/07/22/friday-musings-22-jul-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 05:25:36 +0000</pubDate>
@@ -88,15 +87,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/07/22/friday-musings-22-jul-2022/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Friday Musings 15/Jul/2022</title>
 		<link>/2022/07/15/friday-musings-15-jul-2022/</link>
-					<comments>/2022/07/15/friday-musings-15-jul-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Fri, 15 Jul 2022 05:22:00 +0000</pubDate>
@@ -162,15 +158,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/07/15/friday-musings-15-jul-2022/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Friday Musings &#8211; 08/Jul/2022</title>
 		<link>/2022/07/08/friday-musings-08-jul-2022/</link>
-					<comments>/2022/07/08/friday-musings-08-jul-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Fri, 08 Jul 2022 04:38:00 +0000</pubDate>
@@ -232,15 +225,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/07/08/friday-musings-08-jul-2022/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Friday Musings &#8211; 01/Jul/2022</title>
 		<link>/2022/07/01/friday-musings-01-jul-2022/</link>
-					<comments>/2022/07/01/friday-musings-01-jul-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Fri, 01 Jul 2022 04:45:00 +0000</pubDate>
@@ -306,15 +296,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/07/01/friday-musings-01-jul-2022/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Friday Musings &#8211; 24/Jun/2022</title>
 		<link>/2022/06/24/friday-musings-24-jun-2022/</link>
-					<comments>/2022/06/24/friday-musings-24-jun-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Fri, 24 Jun 2022 07:01:00 +0000</pubDate>
@@ -380,15 +367,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/06/24/friday-musings-24-jun-2022/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Friday Musings &#8211; 17/Jun/2022</title>
 		<link>/2022/06/17/friday-musings-17-jun-2022/</link>
-					<comments>/2022/06/17/friday-musings-17-jun-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Fri, 17 Jun 2022 07:35:00 +0000</pubDate>
@@ -454,15 +438,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/06/17/friday-musings-17-jun-2022/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Friday Musings &#8211; 10/Jun/2022</title>
 		<link>/2022/06/10/friday-musings-10-jun-2022/</link>
-					<comments>/2022/06/10/friday-musings-10-jun-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Fri, 10 Jun 2022 07:33:00 +0000</pubDate>
@@ -528,15 +509,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/06/10/friday-musings-10-jun-2022/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What Gardening teaches you about management!</title>
 		<link>/2021/08/22/management/</link>
-					<comments>/2021/08/22/management/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sun, 22 Aug 2021 14:34:00 +0000</pubDate>
@@ -652,15 +630,12 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/08/22/management/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Motive &#8211; Patrick Lencioni</title>
 		<link>/2020/12/26/the-motive-patrick-lencioni/</link>
-					<comments>/2020/12/26/the-motive-patrick-lencioni/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sat, 26 Dec 2020 09:33:00 +0000</pubDate>
@@ -726,15 +701,12 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/12/26/the-motive-patrick-lencioni/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Man&#8217;s search for Meaning &#8211; Victor E Frankl</title>
 		<link>/2020/10/18/mans-search-for-meaning-victor-e-frankl/</link>
-					<comments>/2020/10/18/mans-search-for-meaning-victor-e-frankl/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sun, 18 Oct 2020 09:54:00 +0000</pubDate>
@@ -800,8 +772,6 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/10/18/mans-search-for-meaning-victor-e-frankl/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

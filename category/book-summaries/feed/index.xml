@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/category/book-summaries/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sun, 10 Jul 2022 12:58:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jul 2022 05:48:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>The Motive &#8211; Patrick Lencioni</title>
 		<link>/2020/12/26/the-motive-patrick-lencioni/</link>
-					<comments>/2020/12/26/the-motive-patrick-lencioni/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sat, 26 Dec 2020 09:33:00 +0000</pubDate>
@@ -88,15 +87,12 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/12/26/the-motive-patrick-lencioni/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Man&#8217;s search for Meaning &#8211; Victor E Frankl</title>
 		<link>/2020/10/18/mans-search-for-meaning-victor-e-frankl/</link>
-					<comments>/2020/10/18/mans-search-for-meaning-victor-e-frankl/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sun, 18 Oct 2020 09:54:00 +0000</pubDate>
@@ -162,15 +158,12 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/10/18/mans-search-for-meaning-victor-e-frankl/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Life&#8217;s Amazing Secrets &#8211; Gaur Gopal Das</title>
 		<link>/2020/04/20/lifes-amazing-secrets-gaur-gopal-das/</link>
-					<comments>/2020/04/20/lifes-amazing-secrets-gaur-gopal-das/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Mon, 20 Apr 2020 10:22:00 +0000</pubDate>
@@ -413,15 +406,12 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/04/20/lifes-amazing-secrets-gaur-gopal-das/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>So Good they can&#8217;t ignore you &#8211; Cal Newport</title>
 		<link>/2020/04/05/so-good-they-cant-ignore-you-cal-newport/</link>
-					<comments>/2020/04/05/so-good-they-cant-ignore-you-cal-newport/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sun, 05 Apr 2020 10:27:00 +0000</pubDate>
@@ -535,15 +525,12 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/04/05/so-good-they-cant-ignore-you-cal-newport/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Ideal Team Player &#8211; Patrick Lencioni</title>
 		<link>/2020/03/15/the-ideal-team-player-patrick-lencioni/</link>
-					<comments>/2020/03/15/the-ideal-team-player-patrick-lencioni/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sun, 15 Mar 2020 10:29:00 +0000</pubDate>
@@ -721,15 +708,12 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/03/15/the-ideal-team-player-patrick-lencioni/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>5 Dysfunctions of a team &#8211; Patrick Lencioni</title>
 		<link>/2020/02/15/5-dysfunctions-of-a-team-patrick-lencioni/</link>
-					<comments>/2020/02/15/5-dysfunctions-of-a-team-patrick-lencioni/#respond</comments>
 		
 		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
 		<pubDate>Sat, 15 Feb 2020 10:33:00 +0000</pubDate>
@@ -821,8 +805,6 @@ Low Standards
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/02/15/5-dysfunctions-of-a-team-patrick-lencioni/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
