@@ -21,6 +21,12 @@ Mik Personal Lite WordPress Theme is child theme of Mik WordPress Theme, Copyrig
 Mik WordPress Theme is distributed under the terms of the GNU GPL
 */
 
+/* Vikram's Customizations */
+.entry-content a {
+ color :blue;
+}
+/* Customizations end */ 
+
 #top-menu,
 .backtotop,
 .main-navigation ul.sub-menu,

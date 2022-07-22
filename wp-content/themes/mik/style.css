@@ -58,6 +58,12 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
 --------------------------------------------------------------*/
 
+/* Vikram's Customizations */
+.entry-content a {
+ color :blue;
+}
+/* Customizations end */ 
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
