@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/author/vikram-ramakrishnan/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sat, 23 Jul 2022 12:03:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Jul 2022 11:24:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
+		<title>Friday Musings 29/Jul/2022</title>
+		<link>/2022/07/30/friday-musings-29-jul-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Sat, 30 Jul 2022 11:24:19 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=315</guid>
+
+					<description><![CDATA[Articles I’m reading. Ask HN: I&#8217;m in a rut. How did you get out of yours? – This active thread on HackerNews has lot of [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’m reading.</em></strong></h3>
+
+
+
+<p><a href="https://news.ycombinator.com/item?id=32226910">Ask HN: I&#8217;m in a rut. How did you get out of yours?</a> – This active thread on HackerNews has lot of tips and discussions on how to handle and recover from Burnout and languishing. What intrigued me was, how a simple question when asked in a powerful forum could lead to tons of learning. Never be afraid to ask questions!</p>
+
+
+
+<h3><strong><em>Videos I’m watching</em></strong></h3>
+
+
+
+<p>As someone who personally struggles with initiating the first conversation, I found &nbsp;<a href="https://www.youtube.com/watch?v=F4Zu5ZZAG7I">7 Ways to Make a Conversation with Anyone</a> very insightful and practical. It’s a beautiful TEDx talk that you’ll appreciate if you are working to get better at connecting and talking to someone.</p>
+
+
+
+<h3><strong><em>Podcasts I’m listening</em></strong></h3>
+
+
+
+<p><a href="https://freakonomics.com/podcast/should-you-try-to-be-less-angry/">Should You Try to Be Less Angry?</a> – Another one from my favorite podcast – “No Stupid Questions” were Angela and Stephen discuss about Anger and it effects. While it’s not always good to keep the pot boiling, Anger as evolutionary measure does come in handy in situations and it’s important we learn more about how to tackle with our emotions and understand its effects.</p>
+
+
+
+<h3><strong><em>Tech Readings </em></strong></h3>
+
+
+
+<p><a href="https://refactoring.fm/p/the-power-of-inversion-">Power of Inversion</a> – &#8220;<em>Avoiding stupidity is easier than seeking brilliance</em>&#8220;. This post explores some common applications of the Inversion mental model in engineering and how we can use it to make things better.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Almost any technology that has the power to save a billion lives, always starts with something that could kill a million</p><cite>Anon</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>New Manager Surprises</title>
 		<link>/2022/07/23/new-manager-surprises/</link>
 		
@@ -42,7 +113,7 @@
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img src="/wp-content/uploads/2022/07/mgmt-art-sci-1-1024x663.png" alt="" class="wp-image-280" width="628" height="406" srcset="/wp-content/uploads/2022/07/mgmt-art-sci-1-1024x663.png 1024w, /wp-content/uploads/2022/07/mgmt-art-sci-1-300x194.png 300w, /wp-content/uploads/2022/07/mgmt-art-sci-1-768x497.png 768w, /wp-content/uploads/2022/07/mgmt-art-sci-1.png 1307w" sizes="(max-width: 628px) 100vw, 628px" /></figure></div>
+<figure class="alignleft size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2022/07/mgmt-art-sci-1-1024x663.png" alt="" class="wp-image-280" width="628" height="406" srcset="/wp-content/uploads/2022/07/mgmt-art-sci-1-1024x663.png 1024w, /wp-content/uploads/2022/07/mgmt-art-sci-1-300x194.png 300w, /wp-content/uploads/2022/07/mgmt-art-sci-1-768x497.png 768w, /wp-content/uploads/2022/07/mgmt-art-sci-1.png 1307w" sizes="(max-width: 628px) 100vw, 628px" /></figure></div>
 
 
 <p class="has-text-align-left"><strong><em>Management</em></strong> is both  <strong><em>Art</em></strong> and <strong><em>Science</em></strong>. It is <em>science</em> because there&#8217;s systemic study material, repeatable processes, and causality that can be learnt. It&#8217;s an Art because management requires a considerable amount of skill, practice, creativity and Individual application &#8211; what works for one may not work for another person. It&#8217;s therefore imperative to understand what one can expect as they embark on their management journey and chart a course for success. </p>
@@ -189,8 +260,8 @@
 
 					<description><![CDATA[Articles I’m reading. How can I become a Director? &#160;– A very well written piece by Guru Bhat on what it takes to become a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -240,7 +311,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -260,8 +331,8 @@
 
 					<description><![CDATA[Article I’m reading. Injections that edit Genes to stop diseases! – I’m filled with both hope and fear when I read articles like this. While [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -311,7 +382,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -335,8 +406,8 @@
 
 
 
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <h3><strong><em>Article I’m reading.</em></strong></h3>
 
 
@@ -378,7 +449,7 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -398,8 +469,8 @@
 
 					<description><![CDATA[Books I’m (re)reading. I’ve picked up “Radical Candor” by Kim Scott again. IMO, it’s one of the must reads for anyone picking up Management for [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-15 wp-block-columns">
+<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -445,7 +516,7 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -465,8 +536,8 @@
 
 					<description><![CDATA[Short stories I’m (re)reading I’ve been deeply inspired by some of these stories and it has stuck with me and has changed the way I [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -512,7 +583,7 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -532,8 +603,8 @@
 
 					<description><![CDATA[Places I visited I was fortunate this week to visit two historic temple sites in Tamilnadu, the Chidambaram Nataraja Temple and Vaithayanatha Swamy Temple in [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -579,7 +650,7 @@
 
 
 
-<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -599,8 +670,8 @@
 
 					<description><![CDATA[Podcasts I’m listening to Mind Reading 2.0: Why Conversations go wrong hosted by Shankar Vedantam (@HiddenBrain) where they talk about conversational styles and why understanding [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -646,7 +717,7 @@
 
 
 
-<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -771,77 +842,6 @@
 
 
 <p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The Motive &#8211; Patrick Lencioni</title>
-		<link>/2020/12/26/the-motive-patrick-lencioni/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Sat, 26 Dec 2020 09:33:00 +0000</pubDate>
-				<category><![CDATA[Book Summaries]]></category>
-		<guid isPermaLink="false">/?p=167</guid>
-
-					<description><![CDATA[2 Kinds of Leaders Reward centered They see the moving to leadership as a reward of what they’ve achieved so far and is a prize. [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<h2>2 Kinds of Leaders</h2>
-
-
-
-<ul><li><strong><em>Reward centered</em></strong><ol><li>They see the moving to leadership as a reward of what they’ve achieved so far and is a prize.</li><li>Focus on the &#8220;glory&#8221;, &#8220;prestige&#8221;, &#8220;rewards&#8221; for achieving pinnacle of success</li><li>They usually pick and choose what they want to do as leader and do what is usually something they feel they are good at or have fun.</li></ol></li><li><strong><em>Responsibility centered</em></strong><ol type="i"><li>Look at this as a responsibility rather than reward.</li><li>Don’t shy away from doing what is required for someone at this job</li><li>The experience of being &#8216;<em>responsibility centered</em>&#8216; leader should be tough and challenging</li><li>Look at this from the perspective of the people they lead, rather than themselves.</li></ol></li></ul>
-
-
-
-<ul><li>There&#8217;s no pure &#8220;Reward&#8221; / &#8220;Responsibility&#8221; focused Leader. People are usually in a spectrum. You need to ensure you are more aligned toward Responsibility centered.</li></ul>
-
-
-
-<ul><li>Responsibility centered Leaders need to be aware of the <strong>Trap</strong> &#8211; when they are being responsibility centered leader, people tend to praise them and agree with them quite a lot and this can lead people to move down the path of Reward centered leadership.<ul><li>Have a strong inner circle who can challenge and keep them honest</li></ul></li></ul>
-
-
-
-<h2><strong>5 Core responsibilities</strong> </h2>
-
-
-
-<p>These are responsibilities that &#8220;<em>Reward centered</em>&#8221; Leaders usually ignore or don&#8217;t do well</p>
-
-
-
-<ul><li><strong><em>Having difficult &amp; uncomfortable conversations</em></strong><ul><li>Addressing Bad behavior immediately and not tolerating regardless of how good the direct report is at their job</li><li>Don&#8217;t avoid these hard conversations</li></ul></li></ul>
-
-
-
-<ul><li><strong><em>Managing subordinates</em></strong><ul><li>Individual coaching and guidance is necessary at all levels. This has got nothing to do with the person&#8217;s experience.</li><li><span class="has-inline-color has-luminous-vivid-orange-color"><em>If you feel you should be able to trust people to manage themselves, or justify not knowing what your direct reports are doing by justifying not being a micromanager, then your motive for leading is wrong.</em></span></li><li><strong><em>Micromanagement</em></strong> &#8212; <span class="has-inline-color has-luminous-vivid-orange-color">the only people who call management, micromanagement are the ones trying to avoid accountability</span>.</li><li><strong>As a leader, you need to</strong><ul><li>Know what they are working on</li><li>Know their progress</li><li>Give them the right feedback and coaching</li></ul></li><li>Lots of experience doesn&#8217;t mean people don&#8217;t have to be managed. It&#8217;s not sign of punishment or lack of trust. It&#8217;s giving them the benefit of direction and coaching.</li><li>Best of sportsmen pay people to coach them.</li><li>Stopping managing is a sign of neglect.</li></ul></li></ul>
-
-
-
-<ul><li><strong><em>Running great team meetings</em></strong><ul><li>Running boring meetings / avoiding them</li><li>Outcome based meetings</li><li>If you allow in-effective meetings to happens, this will percolate to entire org</li><li><strong><em>Bad Meetings == Bad decisions</em></strong></li></ul></li></ul>
-
-
-
-<ul><li><strong><em>Developing Leadership team</em></strong><ul><li>If you feel this is something touchy-feely and waste of time, then your motive for being a leader isn&#8217;t right.</li><li>Hiring != delegating to HR</li><li>It&#8217;s not just a annual meeting or gala for team building</li></ul></li></ul>
-
-
-
-<ul><li><strong><em>Communicating constantly &amp; repeatedly</em></strong><ul><li>Research says it takes <strong>7 times</strong> for people to hear the same message before believe execs are serious about it.</li><li><strong>CEOs need to be Chief Reminding Officers</strong></li><li>You always need to over communicate.</li></ul></li></ul>
-
-
-
-<h2>Quotes &amp; References</h2>
-
-
-
-<ul><li><em>It’s about doing the job, not having the job.</em></li><li><em>CEO is not Chief Executive Officer , it is Chief </em><strong><em>Executing</em></strong><em> officer.</em></li><li><em>When deciding on picking up a certain role ask yourself</em><ul><li><strong><em>Why do you want to do the thing that __ does? (CEO/VP/Director etc)</em></strong></li><li><strong><em>Why do you still want to be _____ ? (CEO/VP/Director etc)</em></strong></li></ul></li></ul>
-
-
-
-<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="UnConference Live Stream - &quot;Are You Leading for the Right Reasons?&quot;" width="819" height="461" src="https://www.youtube.com/embed/PdRcrNXZNjA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="UnConference Live Stream - "Are You Leading for the Right Reasons?""></iframe>
-</div></figure>
 ]]></content:encoded>
 					
 		
