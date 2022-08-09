@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/author/vikram-ramakrishnan/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sat, 30 Jul 2022 11:28:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Aug 2022 13:56:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
+		<title>Friday Musings &#8211; 05/Aug/2022</title>
+		<link>/2022/08/05/friday-musings-05-aug-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2022 13:56:00 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=322</guid>
+
+					<description><![CDATA[Articles I’m reading. How to mend your broken pandemic brain – COVID-19 pandemic has truly hit the humankind in all possible areas including messing up [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’m reading.</em></strong></h3>
+
+
+
+<p><a href="https://www.technologyreview.com/2021/07/16/1028580/pandemic-mental-health-new-normal/" target="_blank" rel="noreferrer noopener">How to mend your broken pandemic brain</a> – COVID-19 pandemic has truly hit the humankind in all possible areas including messing up our brains. As the world slowly starts its recovery journey, this article talks about some of the impacts to our brain and how we can help fix it faster.</p>
+
+
+
+<h3><strong><em>Movies I watched</em></strong></h3>
+
+
+
+<p><a href="https://www.imdb.com/title/tt9263550/" target="_blank" rel="noreferrer noopener">Rocketry &#8211; The Nambi Effect</a> – (IMDb &#8211; 9.1) &#8211; After many months, this was a movie that shook me. Thanks to <a href="https://twitter.com/ActorMadhavan" target="_blank" rel="noreferrer noopener">R.Madhavan</a> for making this and <a href="https://en.wikipedia.org/wiki/Nambi_Narayanan" target="_blank" rel="noreferrer noopener">Dr. Nambi</a> an unsung hero who&#8217;s love for this country and passion for science has no parallels. What intrigued me when I watched this movie, is the impact media (news/television/social media etc.) has in creating a viral perception (right /wrong) about a person and how we as consumers embrace that without question and judge people. In an era of AI taking over content creation and propagation, it&#8217;s very important that each one of us have some moral and factual compass before coming to a judgement on piece of info we see out there.</p>
+
+
+
+<h3><strong><em>Podcasts I’m listening</em></strong></h3>
+
+
+
+<p><a href="https://hiddenbrain.org/podcast/you-2-0-befriending-your-inner-voice/" target="_blank" rel="noreferrer noopener">You 2.0 &#8211; Befriending your inner voice</a> – What we say to ourselves, and our inner voice is a big contributor to how we think, act, react and transform. This podcast covers the effect of this chatter, and how to keep our negative emotions from transforming to chatter and harness its power in a constructive way.</p>
+
+
+
+<h3><strong><em>Tech Readings&nbsp; </em></strong></h3>
+
+
+
+<p><a href="https://github.com/jorgef/engineeringladders" target="_blank" rel="noreferrer noopener">Engineering Ladders</a> – This is a wonderful resource for Managers that’ll help in having meaningful career conversations around expectations at each level for both Engineering and management tracks. This is not intended to be used as a checklist for promotions, rather a guidance for career conversations</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>People rarely succeed unless they have fun in what they are doing</p><cite>Dale Carnegie</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings 29/Jul/2022</title>
 		<link>/2022/07/30/friday-musings-29-jul-2022/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Articles I’m reading. Ask HN: I&#8217;m in a rut. How did you get out of yours? – This active thread on HackerNews has lot of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -260,8 +331,8 @@
 
 					<description><![CDATA[Articles I’m reading. How can I become a Director? &#160;– A very well written piece by Guru Bhat on what it takes to become a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -311,7 +382,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -331,8 +402,8 @@
 
 					<description><![CDATA[Article I’m reading. Injections that edit Genes to stop diseases! – I’m filled with both hope and fear when I read articles like this. While [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -382,7 +453,7 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -406,8 +477,8 @@
 
 
 
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-15 wp-block-columns">
+<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
 <h3><strong><em>Article I’m reading.</em></strong></h3>
 
 
@@ -449,7 +520,7 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -469,8 +540,8 @@
 
 					<description><![CDATA[Books I’m (re)reading. I’ve picked up “Radical Candor” by Kim Scott again. IMO, it’s one of the must reads for anyone picking up Management for [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -516,7 +587,7 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -536,8 +607,8 @@
 
 					<description><![CDATA[Short stories I’m (re)reading I’ve been deeply inspired by some of these stories and it has stuck with me and has changed the way I [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -583,7 +654,7 @@
 
 
 
-<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -603,8 +674,8 @@
 
 					<description><![CDATA[Places I visited I was fortunate this week to visit two historic temple sites in Tamilnadu, the Chidambaram Nataraja Temple and Vaithayanatha Swamy Temple in [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -650,7 +721,7 @@
 
 
 
-<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -670,8 +741,8 @@
 
 					<description><![CDATA[Podcasts I’m listening to Mind Reading 2.0: Why Conversations go wrong hosted by Shankar Vedantam (@HiddenBrain) where they talk about conversational styles and why understanding [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-24 wp-block-columns">
-<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-27 wp-block-columns">
+<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -717,131 +788,10 @@
 
 
 
-<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>What Gardening teaches you about management!</title>
-		<link>/2021/08/22/management/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Sun, 22 Aug 2021 14:34:00 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Since the onset of the COVID-19 Pandemic, gardening has rapidly become a way to rejuvenate and is now a core family activity. Watching seeds germinate, [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Since the onset of the COVID-19 Pandemic, gardening has rapidly become a way to rejuvenate and is now a core family activity. Watching seeds germinate, flowers blossom, plants flourish(and sometimes dry out and die), I couldn’t help but draw parallels to management&nbsp;and the lessons we can learn from them.</p>
-
-
-
-<figure class="wp-block-pullquote has-text-align-center has-small-font-size" style="font-style:normal;font-weight:500"><blockquote><p><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-cyan-blue-color"><strong><em>The glory of gardening: hands in the dirt, head in the sun, heart with nature. To nurture a garden is to feed not just on the body, but the soul. &#8211; </em></strong></mark><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-cyan-blue-color"><em>Alfred Austin</em></mark></strong></p></blockquote></figure>
-
-
-
-<div class="wp-block-cover" style="min-height:138px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img loading="lazy" width="960" height="641" class="wp-block-cover__image-background wp-image-106" alt="" src="/wp-content/uploads/2022/07/sunsoil.jpeg" data-object-fit="cover" srcset="/wp-content/uploads/2022/07/sunsoil.jpeg 960w, /wp-content/uploads/2022/07/sunsoil-300x200.jpeg 300w, /wp-content/uploads/2022/07/sunsoil-768x513.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" /><div class="wp-block-cover__inner-container">
-<p class="has-large-font-size"><strong>Soil &amp; Sunlight &#8211; It all starts here</strong></p>
-</div></div>
-
-
-
-<p>Every plant needs a specific type of soil to flourish. Clay, Sandy, Silty, or Peaty.&nbsp;There are many&nbsp;combinations depending on what plants you’ve got. Likewise, sunlight is also an important growth factor. Some plants need full sunlight, others need partial shade, while some grow remarkably well indoors with minimal light. Using the wrong soil type or lighting is a sure shot way to fail.</p>
-
-
-
-<p>Like soil and&nbsp;sunlight form the foundation for the growth of plants, the right work assignments determine your team&#8217;s success.&nbsp;<em>New project features</em><strong><em>&nbsp;</em></strong><em>vs</em>&nbsp;<em>fixing tech debt</em>&nbsp;<em>vs</em>&nbsp;<em>support</em>&nbsp;<em>vs</em>&nbsp;<em>building a product from scratch</em>, each needs a specific type of individual. Some are suited to platform work, some can learn new tech quickly and adapt to a fast-paced environment, some are very good at dealing with ambiguity, etc, so identify the right place for team members based on their skills, interests &amp; aspirations.</p>
-
-
-
-<div class="wp-block-cover is-light" style="min-height:151px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img loading="lazy" width="400" height="267" class="wp-block-cover__image-background wp-image-107" alt="" src="/wp-content/uploads/2022/07/waterfert.jpeg" data-object-fit="cover" srcset="/wp-content/uploads/2022/07/waterfert.jpeg 400w, /wp-content/uploads/2022/07/waterfert-300x200.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" /><div class="wp-block-cover__inner-container">
-<p class="has-large-font-size"><strong><mark style="background-color:rgba(0, 0, 0, 0);color:#f3f2f2" class="has-inline-color">Water &amp; Fertilizer &#8211; Keep up the growth</mark></strong></p>
-</div></div>
-
-
-
-<p>Now that you have foundations out of the way, let&#8217;s talk about regular care.</p>
-
-
-
-<p>Water and fertilizer are two very important&nbsp;needs for a splendid garden. Every plant in your garden may have&nbsp;a specific need. Some don’t need any fertilizer for months, while others need it every week. Same with water. Some plants have&nbsp;to be watered daily and others are drought resistant and can sustain for weeks. Root rot, yellowing leaves, stunted growth, fertilizer burns, etc are very common issues you&#8217;ll see in gardening support forums and the only way to fix them is to fix your watering and fertilizing schedules.&nbsp;</p>
-
-
-
-<p>In management, this is like providing the right training, setting the right expectations, and following up on progress. Inadequate or incorrect training will create under-skilled members&nbsp;and frustrate the team.&nbsp;Lack of expectation setting and follow-up on progress will lead to suboptimal outcomes. Some team members do well with very minimal follow-up, whereas others will either need frequent follow-ups or someone to assist them continuously to ensure progress.&nbsp;<em>RCG&#8217;s, mid-level engineers, senior engineers, architects, managers</em>&nbsp;&#8211; each one has a different need and successful leaders should be mindful of these, spot opportunities, provide clarity for the team to flourish.</p>
-
-
-
-<p>As a manager regularly ask yourself &#8211; Does your team have the right skills needed for the job? Do you micromanage a lot when you should let the team decide? Do you stay away from the action, only to pitch in when a crisis occurs?. Get your team&#8217;s feedback and adapt.</p>
-
-
-
-<div class="wp-block-cover is-light" style="min-height:96px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img loading="lazy" width="400" height="264" class="wp-block-cover__image-background wp-image-102" alt="" src="/wp-content/uploads/2022/07/climbers.jpeg" data-object-fit="cover" srcset="/wp-content/uploads/2022/07/climbers.jpeg 400w, /wp-content/uploads/2022/07/climbers-300x198.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" /><div class="wp-block-cover__inner-container">
-<p class="has-text-color has-large-font-size" style="color:#fefdfd"><strong>Climbers need stability &amp; support</strong></p>
-</div></div>
-
-
-
-<p>If you’ve grown flowering climbers (like Allamanda or morning glory) you may have noticed that beyond a certain height they can no longer grow without support. Strong Climbers sometimes use other branches in the same plant to continue growing, but even that has a limit.</p>
-
-
-
-<p>The same is true for you and your team. Beyond a certain limit, they can no longer grow without leadership support. As a manager, always create the right support ecosystem both within and outside your teams. Find the right coaching / mentoring opportunities and share them. Have regular 1:1s and create an individual development plan which aligns with their aspirations.</p>
-
-
-
-<div class="wp-block-cover" style="min-height:119px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img loading="lazy" width="400" height="267" class="wp-block-cover__image-background wp-image-105" alt="" src="/wp-content/uploads/2022/07/seedsorstem.jpeg" data-object-fit="cover" srcset="/wp-content/uploads/2022/07/seedsorstem.jpeg 400w, /wp-content/uploads/2022/07/seedsorstem-300x200.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" /><div class="wp-block-cover__inner-container">
-<p class="has-large-font-size"><strong>Seeds or stem cuttings &#8211; building next-gen</strong></p>
-</div></div>
-
-
-
-<p>While you may have picked the best seeds or the strongest cuttings for propagation, you may never see a 100% success rate. Anything between 50-70% is a respectable success rate and you’ll eventually get better. Time is another important factor to consider too. Some seeds germinate quickly while others will take more time, don’t judge too soon, and start taking action.</p>
-
-
-
-<p>You&#8217;ll have similar observations during hiring as well. Someone fantastic during interviews&nbsp;can&nbsp;be inefficient at the job and an average person could&nbsp;be a rockstar. Give it time, observe progress at regular intervals, and course-correct accordingly. Don&#8217;t be too hard on yourself if you land a bad hire. Learn from it and move on. You&#8217;ll get better, eventually.</p>
-
-
-
-<div class="wp-block-cover is-light" style="min-height:96px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img loading="lazy" width="400" height="267" class="wp-block-cover__image-background wp-image-104" alt="" src="/wp-content/uploads/2022/07/repot.jpeg" data-object-fit="cover" srcset="/wp-content/uploads/2022/07/repot.jpeg 400w, /wp-content/uploads/2022/07/repot-300x200.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" /><div class="wp-block-cover__inner-container">
-<p class="has-white-color has-text-color has-large-font-size"><strong>Re-Potting &#8211; Moving on&#8230;</strong></p>
-</div></div>
-
-
-
-<p>All plants eventually outgrow their containers. For you to sustain their growth and keep them from dying, you’ll need to move them to a larger pot with more soil/nutrients.</p>
-
-
-
-<p>Likewise, in management, you should always watch out for successful people on your teams who are now ready for expanded roles, scope, etc, and create opportunities for them to grow. Depending on your situation, you may need to move them to other teams or, in some rare cases, even encourage them to look outside of the company. Remember, this is both good for the individual and the team. You don’t want cracked pots or stunted plants!</p>
-
-
-
-<div class="wp-block-cover" style="min-height:111px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img loading="lazy" width="400" height="288" class="wp-block-cover__image-background wp-image-103" alt="" src="/wp-content/uploads/2022/07/pruning.jpeg" data-object-fit="cover" srcset="/wp-content/uploads/2022/07/pruning.jpeg 400w, /wp-content/uploads/2022/07/pruning-300x216.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" /><div class="wp-block-cover__inner-container">
-<p class="has-large-font-size"><strong>Pruning &#8211; It&#8217;s never easy</strong></p>
-</div></div>
-
-
-
-<p>Pruning boosts yields, improves aesthetics, reduces diseases &amp; prevents infestations. Every beautiful garden needs regular pruning. Don’t be afraid to prune &#8211; knowing when and how are important skills every gardener should learn.</p>
-
-
-
-<p>Likewise, managers need&nbsp;to review their team structure periodically and make changes. You may have to remove misfits and underperformers, deliberately move out people who’ve been in your team for long to other teams, so they can grow (and your team can grow/adapt as well) or split teams into smaller units so they are more focused. Being a successful manager requires you to master these skills and know when the time is right to apply them.</p>
-
-
-
-<pre class="wp-block-verse"><em><span class="has-inline-color has-vivid-cyan-blue-color">It’s important to realize that whether in plants or humans, growth is the same, and demands much of the same conditions and requirements. It’s hard work, takes a lot of effort and patience, but like a proud gardener admiring the beauty of their garden, seeing your team grow and succeed is both a rewarding and fulfilling part of being a manager.</span></em></pre>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		
