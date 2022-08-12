@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/category/friday-musings/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Thu, 04 Aug 2022 13:56:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Aug 2022 16:23:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
+		<title>Friday Musings 12/Aug/2022</title>
+		<link>/2022/08/12/friday-musings-12-aug-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2022 16:23:24 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=328</guid>
+
+					<description><![CDATA[Articles I’m reading. An Engineering team where everyone is a leader – A very well written piece with practical tips for managers and leaders on [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’m reading.</em></strong></h3>
+
+
+
+<p><a href="https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/" target="_blank" rel="noreferrer noopener">An Engineering team where everyone is a leader</a> – A very well written piece with practical tips for managers and leaders on how to build a team where each engineer is empowered to make decisions and leads from the front.</p>
+
+
+
+<h3><strong><em>Videos I watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=biNMRQJXvfs" target="_blank" rel="noreferrer noopener">Why No One Can Agree What’s REALLY the Tallest Mountain</a> – Did you know that the longest mountain range in earth is under sea and the tallest peak isn&#8217;t necessarily the Everest? There&#8217;s never a time when I have come out of a video from this channel without learning something new and also wondering how some of the simplest things we assume from our schooling can actually be very complex.</p>
+
+
+
+<h3><strong><em>Books I’m (re) Reading</em></strong></h3>
+
+
+
+<p>Reread my notes from the book  <a href="https://www.goodreads.com/book/show/3450744-nudge" target="_blank" rel="noreferrer noopener">Nudge</a> after listening to the recent episode of Hidden Brain on &#8220;<a href="https://hiddenbrain.org/podcast/you-2-0-how-to-see-yourself-clearly/" target="_blank" rel="noreferrer noopener">How to see yourself clearly</a>&#8220;. The concept of <a href="https://en.wikipedia.org/wiki/Choice_architecture" target="_blank" rel="noreferrer noopener">choice architecture</a> and its influence on people as described in Nudge made me think about comment from the podcast – “<em>We often make important decisions in our life and love for reasons we don&#8217;t even realize</em>”</p>
+
+
+
+<h3><strong><em>Tech Readings </em></strong></h3>
+
+
+
+<p><a href="https://levelup.gitconnected.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9" target="_blank" rel="noreferrer noopener">Firefox and its sad decline&#8230;</a> – I love Firefox, but this is an example what happens to a product when there&#8217;s mis-timing, lack of customer focus and market understanding issues coupled with bad decisions. It&#8217;s sad to see Firefox fall from over 34% browser market share in 2010 to less than 3.5% currently.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Every time someone does the right thing, the world becomes a better place to live in&#8230;</p><cite>Anon</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings &#8211; 05/Aug/2022</title>
 		<link>/2022/08/05/friday-musings-05-aug-2022/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Articles I’m reading. How to mend your broken pandemic brain – COVID-19 pandemic has truly hit the humankind in all possible areas including messing up [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -101,8 +172,8 @@
 
 					<description><![CDATA[Articles I’m reading. Ask HN: I&#8217;m in a rut. How did you get out of yours? – This active thread on HackerNews has lot of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -152,7 +223,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -172,8 +243,8 @@
 
 					<description><![CDATA[Articles I’m reading. How can I become a Director? &#160;– A very well written piece by Guru Bhat on what it takes to become a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -223,7 +294,7 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -243,8 +314,8 @@
 
 					<description><![CDATA[Article I’m reading. Injections that edit Genes to stop diseases! – I’m filled with both hope and fear when I read articles like this. While [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-15 wp-block-columns">
+<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -294,7 +365,7 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -318,8 +389,8 @@
 
 
 
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
 <h3><strong><em>Article I’m reading.</em></strong></h3>
 
 
@@ -361,7 +432,7 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -381,8 +452,8 @@
 
 					<description><![CDATA[Books I’m (re)reading. I’ve picked up “Radical Candor” by Kim Scott again. IMO, it’s one of the must reads for anyone picking up Management for [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -428,7 +499,7 @@
 
 
 
-<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -448,8 +519,8 @@
 
 					<description><![CDATA[Short stories I’m (re)reading I’ve been deeply inspired by some of these stories and it has stuck with me and has changed the way I [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -495,7 +566,7 @@
 
 
 
-<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -515,8 +586,8 @@
 
 					<description><![CDATA[Places I visited I was fortunate this week to visit two historic temple sites in Tamilnadu, the Chidambaram Nataraja Temple and Vaithayanatha Swamy Temple in [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-24 wp-block-columns">
-<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-27 wp-block-columns">
+<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -562,7 +633,7 @@
 
 
 
-<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -582,8 +653,8 @@
 
 					<description><![CDATA[Podcasts I’m listening to Mind Reading 2.0: Why Conversations go wrong hosted by Shankar Vedantam (@HiddenBrain) where they talk about conversational styles and why understanding [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-27 wp-block-columns">
-<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-30 wp-block-columns">
+<div class="wp-container-28 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -629,7 +700,7 @@
 
 
 
-<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-29 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
