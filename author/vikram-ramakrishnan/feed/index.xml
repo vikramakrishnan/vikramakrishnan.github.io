@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/author/vikram-ramakrishnan/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Fri, 19 Aug 2022 16:04:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Aug 2022 11:36:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
+		<title>Friday Musings &#8211; 26/Aug/2022</title>
+		<link>/2022/08/26/friday-musings-26-aug-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 11:21:47 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=336</guid>
+
+					<description><![CDATA[Article I’m reading. Lifestyles &#8211; Morgan Housel – A well written piece that talks about how important mindsets are and how finding a balance between [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Article I’m reading.</em></strong></h3>
+
+
+
+<p><a href="https://www.collaborativefund.com/blog/lifestyles/" target="_blank" rel="noreferrer noopener">Lifestyles &#8211; Morgan Housel</a> – A well written piece that talks about how important mindsets are and how finding a balance between external vs internal measures of success or happiness are core to our wellbeing.</p>
+
+
+
+<h3><strong><em>Videos I watched</em></strong></h3>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=5eW6Eagr9XA" target="_blank">The 4 things it takes to be an expert</a> – <a href="https://www.linkedin.com/in/subhadip-panja-28612a18/" target="_blank" rel="noreferrer noopener"><strong>Subhadip</strong> </a>recommended Veritasium a couple months back and I&#8217;ve since then become a fan of their videos. In this video, Dr. Derek talks about the 4 things that are required to become an expert at things and why you can’t have expert in every field</p>
+
+
+
+<h3><strong><em>Podcasts I’m listening</em></strong></h3>
+
+
+
+<p><a href="https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/" target="_blank" rel="noreferrer noopener">Sleep Toolkit: Tools For Optimizing Sleep &amp; Sleep-Wake Timing</a> &#8211; Dr. Huberman provides practical tips to improve and optimize sleep patterns. I&#8217;ve personally incorporated some of this (morning sunlight exposure, core body temperature rise, early dinner)  in my daily routine and can definitely see improvements in waking up energy, sleep quality etc.</p>
+
+
+
+<h3><strong><em>Tech Readings&nbsp;</em></strong></h3>
+
+
+
+<p><strong><em> </em></strong><a href="https://facebook.github.io/zstd/">ZStandard</a> – Thanks <strong><a href="https://www.linkedin.com/in/subramaniajeeva/" target="_blank" rel="noreferrer noopener">Jeeva</a></strong> for sharing this one. ZStandard is a fast compression algorithm, providing high compression ratios. It also offers a special mode for small data, called dictionary compression. The reference library offers a very wide range of speed / compression trade-off, and is backed by an extremely fast decoder</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Everything that irritates us about others can lead us to an understanding of ourselves</p><cite>Carl Jung</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings &#8211; 19/Aug/2022</title>
 		<link>/2022/08/19/332/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Articles I’m reading. Electric Planes taking off challenges! – Climate change is real and it&#8217;s interesting to see these technical advances that could potentially slowdown [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -101,8 +172,8 @@
 
 					<description><![CDATA[Articles I’m reading. An Engineering team where everyone is a leader – A very well written piece with practical tips for managers and leaders on [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -152,7 +223,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -172,8 +243,8 @@
 
 					<description><![CDATA[Articles I’m reading. How to mend your broken pandemic brain – COVID-19 pandemic has truly hit the humankind in all possible areas including messing up [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -223,7 +294,7 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -243,8 +314,8 @@
 
 					<description><![CDATA[Articles I’m reading. Ask HN: I&#8217;m in a rut. How did you get out of yours? – This active thread on HackerNews has lot of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-15 wp-block-columns">
+<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -294,7 +365,7 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -473,8 +544,8 @@
 
 					<description><![CDATA[Articles I’m reading. How can I become a Director? &#160;– A very well written piece by Guru Bhat on what it takes to become a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -524,7 +595,7 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -544,8 +615,8 @@
 
 					<description><![CDATA[Article I’m reading. Injections that edit Genes to stop diseases! – I’m filled with both hope and fear when I read articles like this. While [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -595,7 +666,7 @@
 
 
 
-<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -619,8 +690,8 @@
 
 
 
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
 <h3><strong><em>Article I’m reading.</em></strong></h3>
 
 
@@ -662,7 +733,7 @@
 
 
 
-<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -682,8 +753,8 @@
 
 					<description><![CDATA[Books I’m (re)reading. I’ve picked up “Radical Candor” by Kim Scott again. IMO, it’s one of the must reads for anyone picking up Management for [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-24 wp-block-columns">
-<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-27 wp-block-columns">
+<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -725,73 +796,6 @@
 
 
 <blockquote class="wp-block-quote"><p>I did not succeed in Life because of Intelligence, I Succeeded because I have a long attention span</p><cite>Charlie Munger</cite></blockquote>
-</div>
-
-
-
-<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings &#8211; 24/Jun/2022</title>
-		<link>/2022/06/24/friday-musings-24-jun-2022/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 24 Jun 2022 07:01:00 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=127</guid>
-
-					<description><![CDATA[Short stories I’m (re)reading I’ve been deeply inspired by some of these stories and it has stuck with me and has changed the way I [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-27 wp-block-columns">
-<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h3><strong><em>Short stories I’m (re)reading</em></strong></h3>
-
-
-
-<p>I’ve been deeply inspired by some of <a href="https://www.klib.in/short-life-stories/">these stories</a> and it has stuck with me and has changed the way I think and act.</p>
-
-
-
-<h3><strong><em>Videos that Kindled Curiosity</em></strong></h3>
-
-
-
-<ul><li><a href="https://www.youtube.com/watch?v=30vTc1SOt_w">Sensory Adaptation!</a> &nbsp;&#8211; Without this very strange phenomenon, you would be lost, overwhelmed, and completely unable to navigate the external world.</li></ul>
-
-
-
-<h3><strong><em>Documentaries I’m watching</em></strong></h3>
-
-
-
-<p><a href="https://www.youtube.com/watch?v=bFCOm1P_cQQ">The Brain that changes itself</a> – Our Brain is fantastic and continues to amaze researchers trying to unlock its secrets. You would’ve heard people say Change is hard and most people hate change, but if you look deep, your body and specifically your Brain is tuned efficiently adapt, handle and thrive with continuous changes.</p>
-
-
-
-<h3><strong><em>Tech Readings </em></strong></h3>
-
-
-
-<p><strong><em> </em></strong><a href="https://neuralink.com/blog/monkey-mindpong/">Mind Pong!</a> – I’m so excited to see how tech like these will change our future and the things we’ll be able to accomplish. While a part of this brings hope, there’s fear on what this would do in the wrong hands.</p>
-
-
-
-<h3><em>Quote I&#8217;m thinking about</em></h3>
-
-
-
-<blockquote class="wp-block-quote"><p>Isn’t it a Paradox that we want a newer version of everything, but we fear to change our mind?</p><cite>Carmen Jacob</cite></blockquote>
 </div>
 
 
