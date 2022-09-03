@@ -12,14 +12,85 @@
 	<atom:link href="http://localhost/mySite/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Fri, 26 Aug 2022 11:36:05 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Sep 2022 04:46:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Friday Musings 02/Sep/2022</title>
+		<link>/2022/09/02/friday-musings-02-sep-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 02 Sep 2022 04:45:00 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=342</guid>
+
+					<description><![CDATA[Article I’m reading. Why Facts Don&#8217;t change Minds –  “The way to change people’s minds is to become friends with them, to integrate them into [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Article I’m reading.</em></strong></h3>
+
+
+
+<p><a href="https://jamesclear.com/why-facts-dont-change-minds" target="_blank" rel="noreferrer noopener">Why Facts Don&#8217;t change Minds</a> –  “<em>The way to change people’s minds is to become friends with them, to integrate them into your tribe, to bring them into your circle. Now, they can change their beliefs without the risk of being abandoned socially</em>&#8221;  &#8211; In this article, James talks about why facts don&#8217;t usually change minds and what does it take to get people to accept a different point of view</p>
+
+
+
+<h3><strong><em>Documentaries I&#8217;m watching</em></strong></h3>
+
+
+
+<p>&#8220;<em>Can we all become Geniuses</em>” (<a href="https://www.discoveryplus.in/videos/morgan-freemans-through-the-wormhole/can-we-all-become-geniuses?seasonId=7&amp;type=EPISODE" target="_blank" rel="noreferrer noopener">Discovery+)</a> &#8211; From the episode of &#8220;Through the Wormhole&#8221; narrated by Morgan Freeman &#8211; Genius lies somewhere in the human mind, bringing mathematical insight, sparking artistic inspiration and enabling some to see what most cannot. Might we augment our biology with technology to unlock the genius inside us all?</p>
+
+
+
+<h3><strong><em>Podcasts I’m listening</em></strong></h3>
+
+
+
+<p><a href="https://www.ted.com/talks/worklife_with_adam_grant_authenticity_is_a_double_edged_sword" target="_blank" rel="noreferrer noopener">Authenticity is a double-edged sword</a> – Another gem from Adam Grant where he talks about what effective authenticity looks like and how we can learn to strike the right balance.</p>
+
+
+
+<h3><strong><em>Tech Readings&nbsp;</em></strong></h3>
+
+
+
+<p><a href="https://siliconangle.com/2022/08/31/meta-ai-researchers-develop-ways-read-speech-peoples-brains/" target="_blank" rel="noreferrer noopener">Meta &#8211; AI, Read speech from Brain</a> – I’ve always been fascinated with the human brain and wondered if we’d ever fully understand and decode its inner workings. Here’s an interested read where Meta’s FAIR lab has been able to decode speech from non-invasive recordings of brain activity! Mind reading slowly becoming real.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Never argue with stupid people, they will drag to down to their level and beat you with experience.</p><cite>Mark Twain (apocryphal)</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings &#8211; 26/Aug/2022</title>
 		<link>/2022/08/26/friday-musings-26-aug-2022/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Article I’m reading. Lifestyles &#8211; Morgan Housel – A well written piece that talks about how important mindsets are and how finding a balance between [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -101,8 +172,8 @@
 
 					<description><![CDATA[Articles I’m reading. Electric Planes taking off challenges! – Climate change is real and it&#8217;s interesting to see these technical advances that could potentially slowdown [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -152,7 +223,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -172,8 +243,8 @@
 
 					<description><![CDATA[Articles I’m reading. An Engineering team where everyone is a leader – A very well written piece with practical tips for managers and leaders on [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -223,7 +294,7 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -243,8 +314,8 @@
 
 					<description><![CDATA[Articles I’m reading. How to mend your broken pandemic brain – COVID-19 pandemic has truly hit the humankind in all possible areas including messing up [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-15 wp-block-columns">
+<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -294,7 +365,7 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -314,8 +385,8 @@
 
 					<description><![CDATA[Articles I’m reading. Ask HN: I&#8217;m in a rut. How did you get out of yours? – This active thread on HackerNews has lot of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -365,7 +436,7 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -544,8 +615,8 @@
 
 					<description><![CDATA[Articles I’m reading. How can I become a Director? &#160;– A very well written piece by Guru Bhat on what it takes to become a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -595,7 +666,7 @@
 
 
 
-<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -615,8 +686,8 @@
 
 					<description><![CDATA[Article I’m reading. Injections that edit Genes to stop diseases! – I’m filled with both hope and fear when I read articles like this. While [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -666,7 +737,7 @@
 
 
 
-<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -690,8 +761,8 @@
 
 
 
-<div class="wp-container-24 wp-block-columns">
-<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-27 wp-block-columns">
+<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
 <h3><strong><em>Article I’m reading.</em></strong></h3>
 
 
@@ -729,73 +800,6 @@
 
 
 <blockquote class="wp-block-quote"><p>“What is Common Sense, isn’t Common Practice” – Stephen Covey</p></blockquote>
-</div>
-
-
-
-<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings &#8211; 01/Jul/2022</title>
-		<link>/2022/07/01/friday-musings-01-jul-2022/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 01 Jul 2022 04:45:00 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=120</guid>
-
-					<description><![CDATA[Books I’m (re)reading. I’ve picked up “Radical Candor” by Kim Scott again. IMO, it’s one of the must reads for anyone picking up Management for [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-27 wp-block-columns">
-<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h3><strong><em>Books I’m (re)reading.</em></strong></h3>
-
-
-
-<p>I’ve picked up <a href="https://www.radicalcandor.com/the-book/">“Radical Candor” by Kim Scott</a> again. IMO, it’s one of the must reads for anyone picking up Management for their career. It shows managers how to be successful while retaining their humanity, finding meaning in their job, and creating an environment where people both love their work and their colleagues</p>
-
-
-
-<h3><strong><em>Videos that Kindled Curiosity</em></strong></h3>
-
-
-
-<p><a href="https://www.youtube.com/watch?v=LEENEFaVUzU">The Last Human! &#8211; A Glimpse into&nbsp; the Far Future</a> &nbsp;&#8211; I’ve always been mesmerized by Futurism. It expands your own thought process of what’s possible and how to think about things. It opens your mind to the various possibilities of handling situations not only in the future but also in the present.</p>
-
-
-
-<h3><strong><em>Podcasts I’m listening</em></strong></h3>
-
-
-
-<p><a href="https://link.chtbl.com/KmhQvIwN">How to Change Your Workplace</a> – Adam Grant’s “Work Life” has been one of my all-time favorite podcasts and in this episode he delves into “Change” and how each one of us no matter where we are in the hierarchy can bring about meaningful, positive, long-lasting change and motivate people to embrace new ideas.</p>
-
-
-
-<h3><strong><em>Tech Readings </em></strong></h3>
-
-
-
-<p><a href="https://cachelib.org/learnmore/">CacheLib</a> – Facebook’s web scale general purpose caching engine that powers multiple critical applications.</p>
-
-
-
-<h3><em>Quote I&#8217;m thinking about</em></h3>
-
-
-
-<blockquote class="wp-block-quote"><p>I did not succeed in Life because of Intelligence, I Succeeded because I have a long attention span</p><cite>Charlie Munger</cite></blockquote>
 </div>
 
 
