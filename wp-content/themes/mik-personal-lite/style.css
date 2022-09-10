@@ -25,11 +25,20 @@ Mik WordPress Theme is distributed under the terms of the GNU GPL
 .entry-content a {
  color :blue;
 }
+
+.main-navigation ul.sub-menu {
+	background-color: gray; 
+    border-color: #ce3d3f; 
+}
+
+.main-navigation ul.menu li.current-menu-item > a:hover { 
+    color: black; 
+}
+
 /* Customizations end */ 
 
 #top-menu,
 .backtotop,
-.main-navigation ul.sub-menu,
 .post-navigation:before,
 .posts-navigation:before,
 .post-navigation:after,
