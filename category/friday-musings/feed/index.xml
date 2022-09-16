@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/category/friday-musings/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sat, 10 Sep 2022 09:50:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Sep 2022 17:45:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Friday Musings 16/Sep/2022</title>
+		<link>/2022/09/16/friday-musings-16-sep-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2022 17:45:23 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=425</guid>
+
+					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://humanparts.medium.com/how-to-deal-with-difficult-people-without-losing-your-mind-436540bbafbb" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to deal with difficult people without losing your mind</a> – Conflicts are inevitable in all walks of life and having an approach that works for us and learning the alternatives  definitely helps. From the article &#8211; “<em>While most of us admit we are far less than perfect, we often find it quite difficult to accept others’ imperfection. If we are to handle difficult situations successfully, we must accept that people can be both flawed and fabulous</em>.”</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=yN9XgwVHvK4" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why Genghis Khan Refused to Invade India</a> – My weekly dose of a little bit of history and this one is a refreshing take on Genghis Khan.</p>
+
+
+
+<h3><strong><em>Essays I’ve read</em></strong></h3>
+
+
+
+<p><a href="https://cnr.sh/essays/preventing-technology-turf-wars" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Preventing Technology Turf Wars</a> – Thanks to <strong><a href="https://www.linkedin.com/in/grahamejastrebski" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Grahame</a></strong> for recommending <a href="https://cnr.sh/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Chris’s</a> writings. It’s amazing to see the kind of research and references on these Essays. I’ve found this one particularly interesting as many organizations are going through the exercise of improving efficiencies by consolidating functions.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://engineering.fb.com/2022/09/12/open-source/memlab/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">MemLab: An open source framework for finding JavaScript memory leaks</a> – Interesting read on how Facebook detects in-browser memory leaks and how it’s benefitted them.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>When you see someone doing something that doesn’t make sense to you, ask yourself what the world would have to look like to you for those actions to make sense.</p><cite>Shane Parrish</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings 09/Sep/2022</title>
 		<link>/2022/09/09/friday-musings-09-sep-2022/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Articles I’m reading. Chesterton&#8217;s Fence &#8211; A Lesson in Second Order Thinking&#160;– &#160;&#160;As Modernization, Reorganization, Consolidation etc. become part of our usual work vocabulary, it’s [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -101,8 +172,8 @@
 
 					<description><![CDATA[Article I’m reading. Why Facts Don&#8217;t change Minds – &#160;“The way to change people’s minds is to become friends with them, to integrate them into [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -152,7 +223,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -172,8 +243,8 @@
 
 					<description><![CDATA[Article I’m reading. Lifestyles &#8211; Morgan Housel – A well written piece that talks about how important mindsets are and how finding a balance between [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -223,7 +294,7 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -243,8 +314,8 @@
 
 					<description><![CDATA[Articles I’m reading. Electric Planes taking off challenges! – Climate change is real and it&#8217;s interesting to see these technical advances that could potentially slowdown [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-15 wp-block-columns">
+<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -294,7 +365,7 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -314,8 +385,8 @@
 
 					<description><![CDATA[Articles I’m reading. An Engineering team where everyone is a leader – A very well written piece with practical tips for managers and leaders on [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -365,7 +436,7 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -385,8 +456,8 @@
 
 					<description><![CDATA[Articles I’m reading. How to mend your broken pandemic brain – COVID-19 pandemic has truly hit the humankind in all possible areas including messing up [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -436,7 +507,7 @@
 
 
 
-<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -456,8 +527,8 @@
 
 					<description><![CDATA[Articles I’m reading. Ask HN: I&#8217;m in a rut. How did you get out of yours? – This active thread on HackerNews has lot of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -507,7 +578,7 @@
 
 
 
-<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -527,8 +598,8 @@
 
 					<description><![CDATA[Articles I’m reading. How can I become a Director? &#160;– A very well written piece by Guru Bhat on what it takes to become a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-24 wp-block-columns">
-<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-27 wp-block-columns">
+<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -578,7 +649,7 @@
 
 
 
-<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -598,8 +669,8 @@
 
 					<description><![CDATA[Article I’m reading. Injections that edit Genes to stop diseases! – I’m filled with both hope and fear when I read articles like this. While [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-27 wp-block-columns">
-<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-30 wp-block-columns">
+<div class="wp-container-28 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -645,73 +716,6 @@
 
 
 <blockquote class="wp-block-quote"><p>You wouldn&#8217;t worry so much about what others think of you if you realized how seldom they do</p><cite>Elenaor Roosevelt</cite></blockquote>
-</div>
-
-
-
-<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings &#8211; 08/Jul/2022</title>
-		<link>/2022/07/08/friday-musings-08-jul-2022/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 08 Jul 2022 04:38:00 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=113</guid>
-
-					<description><![CDATA[Article I’m reading. How to work with someone you can’t stand – “Like it or not, your job and reputation can rely on an ability [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div class="wp-container-30 wp-block-columns">
-<div class="wp-container-28 wp-block-column" style="flex-basis:66.66%">
-<h3><strong><em>Article I’m reading.</em></strong></h3>
-
-
-
-<p><strong><a href="https://www.fastcompany.com/90596343/how-to-work-with-someone-you-cant-stand" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to work with someone you can’t stand</a> –</strong>  “<em>Like it or not, your job and reputation can rely on an ability to get along with others.”</em> Valdes-Dapena says there are steps you can take to make the situation more bearable.”</p>
-
-
-
-<h3><strong><em>Videos that Kindled Curiosity</em></strong></h3>
-
-
-
-<p><strong><a href="https://www.youtube.com/watch?v=2A7mblg5UKc" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Trying to Land a Plane (to Prove a Point)</a> &nbsp;</strong>&#8211; <em>I’ve always been intrigued by Dunning-Krueger effect &amp; Imposter Syndrome and how it pretty much manifests in everybody. Personally I’m starting to get comfortable saying “I Don’t Know” and “I need help” more often these days.</em></p>
-
-
-
-<h3><strong><em>Podcasts I’m listening</em></strong></h3>
-
-
-
-<p><a href="https://freakonomics.com/podcast/how-simple-is-too-simple/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><strong>How simple is too simple</strong></a> –<em> In this episode of “No Stupid Questions”, Angela Duckworth and Stephen Dubner discuss the obsession humans have with magic bullet solutions and why there are no simple answers.</em></p>
-
-
-
-<h3><strong><em>Tech Readings&nbsp;</em></strong></h3>
-
-
-
-<p><strong><a href="https://www.morling.dev/blog/whats-in-a-good-error-message/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">What&#8217;s in a good Error Message</a>? </strong>– <em>Extremely important for all engineering devs and leads reviewing code. Both the article and the discussion/comments following it has several extremely using nuggets we should think about.</em></p>
-
-
-
-<h3><strong><em>Quote I’m thinking about!</em></strong> </h3>
-
-
-
-<blockquote class="wp-block-quote"><p>“What is Common Sense, isn’t Common Practice” – Stephen Covey</p></blockquote>
 </div>
 
 

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/author/vikram-ramakrishnan/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sat, 10 Sep 2022 13:00:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Sep 2022 17:45:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Friday Musings 16/Sep/2022</title>
+		<link>/2022/09/16/friday-musings-16-sep-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2022 17:45:23 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=425</guid>
+
+					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://humanparts.medium.com/how-to-deal-with-difficult-people-without-losing-your-mind-436540bbafbb" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to deal with difficult people without losing your mind</a> – Conflicts are inevitable in all walks of life and having an approach that works for us and learning the alternatives  definitely helps. From the article &#8211; “<em>While most of us admit we are far less than perfect, we often find it quite difficult to accept others’ imperfection. If we are to handle difficult situations successfully, we must accept that people can be both flawed and fabulous</em>.”</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=yN9XgwVHvK4" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why Genghis Khan Refused to Invade India</a> – My weekly dose of a little bit of history and this one is a refreshing take on Genghis Khan.</p>
+
+
+
+<h3><strong><em>Essays I’ve read</em></strong></h3>
+
+
+
+<p><a href="https://cnr.sh/essays/preventing-technology-turf-wars" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Preventing Technology Turf Wars</a> – Thanks to <strong><a href="https://www.linkedin.com/in/grahamejastrebski" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Grahame</a></strong> for recommending <a href="https://cnr.sh/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Chris’s</a> writings. It’s amazing to see the kind of research and references on these Essays. I’ve found this one particularly interesting as many organizations are going through the exercise of improving efficiencies by consolidating functions.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://engineering.fb.com/2022/09/12/open-source/memlab/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">MemLab: An open source framework for finding JavaScript memory leaks</a> – Interesting read on how Facebook detects in-browser memory leaks and how it’s benefitted them.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>When you see someone doing something that doesn’t make sense to you, ask yourself what the world would have to look like to you for those actions to make sense.</p><cite>Shane Parrish</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Favorite Quotes</title>
 		<link>/2022/09/10/favorite-quotes/</link>
 		
@@ -264,8 +335,8 @@
 
 					<description><![CDATA[Articles I’m reading. Chesterton&#8217;s Fence &#8211; A Lesson in Second Order Thinking&#160;– &#160;&#160;As Modernization, Reorganization, Consolidation etc. become part of our usual work vocabulary, it’s [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -315,7 +386,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -335,8 +406,8 @@
 
 					<description><![CDATA[Article I’m reading. Why Facts Don&#8217;t change Minds – &#160;“The way to change people’s minds is to become friends with them, to integrate them into [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -386,7 +457,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -406,8 +477,8 @@
 
 					<description><![CDATA[Article I’m reading. Lifestyles &#8211; Morgan Housel – A well written piece that talks about how important mindsets are and how finding a balance between [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -453,77 +524,6 @@
 
 
 <blockquote class="wp-block-quote"><p>Everything that irritates us about others can lead us to an understanding of ourselves</p><cite>Carl Jung</cite></blockquote>
-</div>
-
-
-
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings &#8211; 19/Aug/2022</title>
-		<link>/2022/08/19/332/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 19 Aug 2022 16:04:03 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=332</guid>
-
-					<description><![CDATA[Articles I’m reading. Electric Planes taking off challenges! – Climate change is real and it&#8217;s interesting to see these technical advances that could potentially slowdown [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h3><strong><em>Articles I’m reading.</em></strong></h3>
-
-
-
-<p><a href="https://www.technologyreview.com/2022/08/17/1058013/electric-planes-taking-off-challenges/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Electric Planes taking off challenges!</a> – Climate change is real and it&#8217;s interesting to see these technical advances that could potentially slowdown negative effects. Green Hydrogen and alternate fuels sound promising, but until we could find an economical way to produce them, decarbonizing travel is still seems far away.</p>
-
-
-
-<h3><strong><em>Videos I watched</em></strong></h3>
-
-
-
-<p><a href="https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously?language=en" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Jennifer Aaker and Naomi Bagdonas: Why great leaders take humor seriously</a> – Thanks to <strong><a href="https://www.linkedin.com/in/aishwaryasankar/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Aishwarya</a></strong> for sharing this video that talks about the surprising power of humour: why it&#8217;s a secret weapon to build bonds, power, creativity and resilience &#8212; and how we can all have more of it.</p>
-
-
-
-<h3><strong><em>Podcasts I’m listening</em></strong></h3>
-
-
-
-<p><a href="https://hubermanlab.com/dr-emily-balcetis-tools-for-setting-and-achieving-goals/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Dr. Emily Balcetis: Tools For Setting &amp; Achieving Goals</a> &#8211; This is long format science podcast I love and this episode talks about how visual perceptions can influence our level of motivation  and our emotional state as we pursue complex goals in life. One of the interesting things I learnt from this episode, that I&#8217;ve started using is the visual tools to keep track of progress. <a href="https://1se.co/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">1 Second Everyday</a> is slowly becoming part of my daily life.</p>
-
-
-
-<h3><strong><em>Tech Readings </em></strong></h3>
-
-
-
-<p><a href="https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">DALL-E 2 like AI FREE!</a> – This opens a whole new pandora&#8217;s box making it extremely difficult to identify real vs fakes. While Deepfake identification models are getting their own share of attention, I haven&#8217;t come across one in mainstream news.</p>
-
-
-
-<h3><em>Quote I&#8217;m thinking about</em></h3>
-
-
-
-<blockquote class="wp-block-quote"><p>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</p><cite>Will Durant</cite></blockquote>
 </div>
 
 
