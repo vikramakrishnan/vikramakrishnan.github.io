@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Fri, 16 Sep 2022 17:56:20 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Sep 2022 05:35:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Friday Musing 23/Sep/2022</title>
+		<link>/2022/09/23/friday-musing-23-sep-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2022 05:33:00 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=436</guid>
+
+					<description><![CDATA[Articles I’ve read. Why It’s Hard To Learn From Our Mistakes – Though a clickbait-y title, there&#8217;s some key information shared in this article around common [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://www.worth.com/why-smart-people-make-bad-decisions-why-its-hard-to-learn-from-our-mistakes/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why It’s Hard To Learn From Our Mistakes</a> – Though a clickbait-y title, there&#8217;s some key information shared in this article around common reasons for why it&#8217;s easy to make mistakes and how neuroplasticity can help overcome this.</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=E6bVBH9y5O8" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Biggest Myth About Climate Change</a> – With increased occurrences of extreme climate events, it’s hard to ignore the fact that climate change is real, and we need concrete action to minimize its adverse effects. In this video, Joe explains how Climate change naysayers are incorrect and why there’s nothing “natural” about climate change.</p>
+
+
+
+<h3><strong><em>Podcasts I Listened</em></strong></h3>
+
+
+
+<p><a href="https://allinchamathjason.libsyn.com/e96-adobe-acquires-figma-for-20b-tpb-spac-fedex-ceos-recession-warning-macro-picture-more" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">All-In &#8211; Adobe acquires Figma for $20B, TPB SPAC, FedEx CEO&#8217;s recession warning, macro picture &amp; more</a> – It takes some getting used to this podcast format of multi-participant discussion on varied topics, but once you are over it, you’ll come to appreciate the depth of analysis on topics and the amount of critical thinking involved and the kind of questions raised. In this episode Chamath, sacks and others dissect the Adobe-Figma deal &amp; fears of a global recession.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://typefully.com/DanHollick/qr-codes-T7tLlNi" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">QR Codes!</a> In fascinating that the Toyota subsidiary that invented the QR code never exercised its patent and released it for free making these pixelated blobs omnipresent and so useful these days.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>The ability to observe without evaluating is the highest form of intelligence.</p><cite>J Krishnamurti</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings 16/Sep/2022</title>
 		<link>/2022/09/16/friday-musings-16-sep-2022/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -343,8 +414,8 @@
 
 					<description><![CDATA[Articles I’m reading. Chesterton&#8217;s Fence &#8211; A Lesson in Second Order Thinking&#160;– &#160;&#160;As Modernization, Reorganization, Consolidation etc. become part of our usual work vocabulary, it’s [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -394,7 +465,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -414,8 +485,8 @@
 
 					<description><![CDATA[Article I’m reading. Why Facts Don&#8217;t change Minds – &#160;“The way to change people’s minds is to become friends with them, to integrate them into [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -461,77 +532,6 @@
 
 
 <blockquote class="wp-block-quote"><p>Never argue with stupid people, they will drag you down to their level and beat you with experience.</p><cite>Mark Twain (apocryphal)</cite></blockquote>
-</div>
-
-
-
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings &#8211; 26/Aug/2022</title>
-		<link>/2022/08/26/friday-musings-26-aug-2022/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 26 Aug 2022 11:21:47 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=336</guid>
-
-					<description><![CDATA[Article I’m reading. Lifestyles &#8211; Morgan Housel – A well written piece that talks about how important mindsets are and how finding a balance between [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h3><strong><em>Article I’m reading.</em></strong></h3>
-
-
-
-<p><a href="https://www.collaborativefund.com/blog/lifestyles/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Lifestyles &#8211; Morgan Housel</a> – A well written piece that talks about how important mindsets are and how finding a balance between external vs internal measures of success or happiness are core to our wellbeing.</p>
-
-
-
-<h3><strong><em>Videos I watched</em></strong></h3>
-
-
-
-<p><a rel="noreferrer noopener external" href="https://www.youtube.com/watch?v=5eW6Eagr9XA" target="_blank" data-wpel-link="external">The 4 things it takes to be an expert</a> – <a href="https://www.linkedin.com/in/subhadip-panja-28612a18/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>Subhadip</strong> </a>recommended Veritasium a couple months back and I&#8217;ve since then become a fan of their videos. In this video, Dr. Derek talks about the 4 things that are required to become an expert at things and why you can’t have expert in every field</p>
-
-
-
-<h3><strong><em>Podcasts I’m listening</em></strong></h3>
-
-
-
-<p><a href="https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Sleep Toolkit: Tools For Optimizing Sleep &amp; Sleep-Wake Timing</a> &#8211; Dr. Huberman provides practical tips to improve and optimize sleep patterns. I&#8217;ve personally incorporated some of this (morning sunlight exposure, core body temperature rise, early dinner)  in my daily routine and can definitely see improvements in waking up energy, sleep quality etc.</p>
-
-
-
-<h3><strong><em>Tech Readings&nbsp;</em></strong></h3>
-
-
-
-<p><strong><em> </em></strong><a href="https://facebook.github.io/zstd/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">ZStandard</a> – Thanks <strong><a href="https://www.linkedin.com/in/subramaniajeeva/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Jeeva</a></strong> for sharing this one. ZStandard is a fast compression algorithm, providing high compression ratios. It also offers a special mode for small data, called dictionary compression. The reference library offers a very wide range of speed / compression trade-off, and is backed by an extremely fast decoder</p>
-
-
-
-<h3><em>Quote I&#8217;m thinking about</em></h3>
-
-
-
-<blockquote class="wp-block-quote"><p>Everything that irritates us about others can lead us to an understanding of ourselves</p><cite>Carl Jung</cite></blockquote>
 </div>
 
 

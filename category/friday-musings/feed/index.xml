@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/category/friday-musings/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Fri, 16 Sep 2022 17:45:24 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Sep 2022 05:35:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Friday Musing 23/Sep/2022</title>
+		<link>/2022/09/23/friday-musing-23-sep-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2022 05:33:00 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=436</guid>
+
+					<description><![CDATA[Articles I’ve read. Why It’s Hard To Learn From Our Mistakes – Though a clickbait-y title, there&#8217;s some key information shared in this article around common [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://www.worth.com/why-smart-people-make-bad-decisions-why-its-hard-to-learn-from-our-mistakes/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why It’s Hard To Learn From Our Mistakes</a> – Though a clickbait-y title, there&#8217;s some key information shared in this article around common reasons for why it&#8217;s easy to make mistakes and how neuroplasticity can help overcome this.</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=E6bVBH9y5O8" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Biggest Myth About Climate Change</a> – With increased occurrences of extreme climate events, it’s hard to ignore the fact that climate change is real, and we need concrete action to minimize its adverse effects. In this video, Joe explains how Climate change naysayers are incorrect and why there’s nothing “natural” about climate change.</p>
+
+
+
+<h3><strong><em>Podcasts I Listened</em></strong></h3>
+
+
+
+<p><a href="https://allinchamathjason.libsyn.com/e96-adobe-acquires-figma-for-20b-tpb-spac-fedex-ceos-recession-warning-macro-picture-more" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">All-In &#8211; Adobe acquires Figma for $20B, TPB SPAC, FedEx CEO&#8217;s recession warning, macro picture &amp; more</a> – It takes some getting used to this podcast format of multi-participant discussion on varied topics, but once you are over it, you’ll come to appreciate the depth of analysis on topics and the amount of critical thinking involved and the kind of questions raised. In this episode Chamath, sacks and others dissect the Adobe-Figma deal &amp; fears of a global recession.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://typefully.com/DanHollick/qr-codes-T7tLlNi" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">QR Codes!</a> In fascinating that the Toyota subsidiary that invented the QR code never exercised its patent and released it for free making these pixelated blobs omnipresent and so useful these days.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>The ability to observe without evaluating is the highest form of intelligence.</p><cite>J Krishnamurti</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings 16/Sep/2022</title>
 		<link>/2022/09/16/friday-musings-16-sep-2022/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -101,8 +172,8 @@
 
 					<description><![CDATA[Articles I’m reading. Chesterton&#8217;s Fence &#8211; A Lesson in Second Order Thinking&#160;– &#160;&#160;As Modernization, Reorganization, Consolidation etc. become part of our usual work vocabulary, it’s [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -152,7 +223,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -172,8 +243,8 @@
 
 					<description><![CDATA[Article I’m reading. Why Facts Don&#8217;t change Minds – &#160;“The way to change people’s minds is to become friends with them, to integrate them into [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -223,7 +294,7 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -243,8 +314,8 @@
 
 					<description><![CDATA[Article I’m reading. Lifestyles &#8211; Morgan Housel – A well written piece that talks about how important mindsets are and how finding a balance between [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-15 wp-block-columns">
+<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -294,7 +365,7 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -314,8 +385,8 @@
 
 					<description><![CDATA[Articles I’m reading. Electric Planes taking off challenges! – Climate change is real and it&#8217;s interesting to see these technical advances that could potentially slowdown [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -365,7 +436,7 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -385,8 +456,8 @@
 
 					<description><![CDATA[Articles I’m reading. An Engineering team where everyone is a leader – A very well written piece with practical tips for managers and leaders on [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -436,7 +507,7 @@
 
 
 
-<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -456,8 +527,8 @@
 
 					<description><![CDATA[Articles I’m reading. How to mend your broken pandemic brain – COVID-19 pandemic has truly hit the humankind in all possible areas including messing up [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -507,7 +578,7 @@
 
 
 
-<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -527,8 +598,8 @@
 
 					<description><![CDATA[Articles I’m reading. Ask HN: I&#8217;m in a rut. How did you get out of yours? – This active thread on HackerNews has lot of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-24 wp-block-columns">
-<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-27 wp-block-columns">
+<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -578,7 +649,7 @@
 
 
 
-<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -598,8 +669,8 @@
 
 					<description><![CDATA[Articles I’m reading. How can I become a Director? &#160;– A very well written piece by Guru Bhat on what it takes to become a [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-27 wp-block-columns">
-<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-30 wp-block-columns">
+<div class="wp-container-28 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -645,77 +716,6 @@
 
 
 <blockquote class="wp-block-quote"><p>If you really think that the environment is less important than the economy, try holding your breath while you count your money</p><cite>Guy McPherson</cite></blockquote>
-</div>
-
-
-
-<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings 15/Jul/2022</title>
-		<link>/2022/07/15/friday-musings-15-jul-2022/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 15 Jul 2022 05:22:00 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=217</guid>
-
-					<description><![CDATA[Article I’m reading. Injections that edit Genes to stop diseases! – I’m filled with both hope and fear when I read articles like this. While [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-30 wp-block-columns">
-<div class="wp-container-28 wp-block-column" style="flex-basis:66.66%">
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h3><strong><em>Article I’m reading.</em></strong></h3>
-
-
-
-<p><a href="https://www.technologyreview.com/2022/07/12/1055773/crispr-gene-editing-cholesterol/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Injections that edit Genes to stop diseases!</a> – I’m filled with both hope and fear when I read articles like this. While this has the power to save millions of people, what stops someone from using the same tech for nefarious purposes.</p>
-
-
-
-<h3><strong><em>Places I’ve travelled.</em></strong></h3>
-
-
-
-<p>I was in Bangalore this week meeting my colleagues in-person in office and wow, what a week it was. While there’s comfort &amp; some flexibility in working from home, nothing can beat the in-person collaboration and getting things done quickly. For me, Video calls somehow reduce the personal &amp; emotional side of the conversation. Looking forward to many more such visits and catching up with my people!</p>
-
-
-
-<h3><strong><em>Podcasts I’m listening</em></strong></h3>
-
-
-
-<p><a href="https://hiddenbrain.org/podcast/why-youre-smarter-than-you-think/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why you&#8217;re smarter than you think!</a> – From the Hidden brain show notes – “<em>From the time we are schoolchildren, we are ranked and sorted based on how smart we are. But what if our assumptions about intelligence limit our potential? This week, psychologist Scott Barry Kaufman proposes a more expansive notion of what it means to be “smart</em>&#8220;.</p>
-
-
-
-<h3><strong><em>Tech Readings&nbsp;</em></strong></h3>
-
-
-
-<p><strong><em> </em></strong><a href="https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Can GPT-3 explain how code works?</a> – I was amazed by the extent to which models like GPT-3 &amp; OpenAI Codex are getting increasingly efficient at writing code. Makes me wonder when we’d land in a situation where we no longer hire programmers</p>
-
-
-
-<h3><em>Quote I&#8217;m thinking about</em></h3>
-
-
-
-<blockquote class="wp-block-quote"><p>You wouldn&#8217;t worry so much about what others think of you if you realized how seldom they do</p><cite>Elenaor Roosevelt</cite></blockquote>
 </div>
 
 
