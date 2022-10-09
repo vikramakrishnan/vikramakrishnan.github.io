@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/category/friday-musings/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sat, 24 Sep 2022 05:35:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Oct 2022 04:59:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Friday Musings 08/Oct/2022</title>
+		<link>/2022/10/09/friday-musings-08-oct-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2022 04:58:04 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=439</guid>
+
+					<description><![CDATA[Articles I’ve read. How to have better Arguments?&#160;– Arguments are inevitable these days and it&#8217;s extremely important for us to understand the basics around arguing [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://psyche.co/guides/how-to-have-arguments-that-change-minds-including-your-own" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to have better Arguments?</a>&nbsp;– Arguments are inevitable these days and it&#8217;s extremely important for us to understand the basics around arguing (why/how/when etc.). In addition to arming us with information, knowing these will help both us and the other person to get more out of the exchange.</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.ted.com/talks/shankar_vedantam_you_don_t_actually_know_what_your_future_self_wants" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">You don&#8217;t actually know what your future self wants</a>&nbsp;–&nbsp;Profound talk by one of my favorite podcast hosts, Shankar Vedantam, this video is about coming to terms that our future self will not make the same decisions as we are making today and learning some ways to help craft the person we are to become.</p>
+
+
+
+<h3><strong><em>Places I’ve Travelled</em></strong></h3>
+
+
+
+<p>Completed a long pending trip to Sikkim &amp; Darjeeling with the family.&nbsp; I&#8217;d highly recommend this as a place to visit for your next vacation. Sikkim is mind bogglingly beautiful with friendly people, interesting culture and history. Did you know that Sikkim was an independent country/Kingdom until 1975 when it was officially annexed and made the 22nd state of India.&nbsp;<a href="https://photos.google.com/share/AF1QipOaG2S8tci_elc8ogyIvUJq8d0W5Y0seDuLR9eugvLR0hgy96lpLRkgnpCvJsCuyw?key=NzNRU2xJX0JhaERVc0lKVHp6OGRMNUxRME5LZUpB" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Here&#8217;s some photos from my trip.</a></p>
+
+
+
+<h3><strong><em>Tech Readings&nbsp;&nbsp;</em></strong></h3>
+
+
+
+<p><a href="https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Resiliency in Distributed Systems</a>&nbsp;&#8211; A good read on some fundamentals to consider when working on large scale systems specifically around downstream and upstream resiliency.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Give the ones you love wings to fly, roots to come back, and reasons to stay.</p><cite>Dalai Lama</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musing 23/Sep/2022</title>
 		<link>/2022/09/23/friday-musing-23-sep-2022/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Articles I’ve read. Why It’s Hard To Learn From Our Mistakes – Though a clickbait-y title, there&#8217;s some key information shared in this article around common [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -101,8 +172,8 @@
 
 					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -152,7 +223,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -172,8 +243,8 @@
 
 					<description><![CDATA[Articles I’m reading. Chesterton&#8217;s Fence &#8211; A Lesson in Second Order Thinking&#160;– &#160;&#160;As Modernization, Reorganization, Consolidation etc. become part of our usual work vocabulary, it’s [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -223,7 +294,7 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -243,8 +314,8 @@
 
 					<description><![CDATA[Article I’m reading. Why Facts Don&#8217;t change Minds – &#160;“The way to change people’s minds is to become friends with them, to integrate them into [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-15 wp-block-columns">
+<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -294,7 +365,7 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -314,8 +385,8 @@
 
 					<description><![CDATA[Article I’m reading. Lifestyles &#8211; Morgan Housel – A well written piece that talks about how important mindsets are and how finding a balance between [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -365,7 +436,7 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -385,8 +456,8 @@
 
 					<description><![CDATA[Articles I’m reading. Electric Planes taking off challenges! – Climate change is real and it&#8217;s interesting to see these technical advances that could potentially slowdown [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-16 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -436,7 +507,7 @@
 
 
 
-<div class="wp-container-17 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -456,8 +527,8 @@
 
 					<description><![CDATA[Articles I’m reading. An Engineering team where everyone is a leader – A very well written piece with practical tips for managers and leaders on [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-19 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -507,7 +578,7 @@
 
 
 
-<div class="wp-container-20 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -527,8 +598,8 @@
 
 					<description><![CDATA[Articles I’m reading. How to mend your broken pandemic brain – COVID-19 pandemic has truly hit the humankind in all possible areas including messing up [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-24 wp-block-columns">
-<div class="wp-container-22 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-27 wp-block-columns">
+<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -578,7 +649,7 @@
 
 
 
-<div class="wp-container-23 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -598,8 +669,8 @@
 
 					<description><![CDATA[Articles I’m reading. Ask HN: I&#8217;m in a rut. How did you get out of yours? – This active thread on HackerNews has lot of [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-27 wp-block-columns">
-<div class="wp-container-25 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-30 wp-block-columns">
+<div class="wp-container-28 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -645,77 +716,6 @@
 
 
 <blockquote class="wp-block-quote"><p>Almost any technology that has the power to save a billion lives, always starts with something that could kill a million</p><cite>Anon</cite></blockquote>
-</div>
-
-
-
-<div class="wp-container-26 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings 22/Jul/2022</title>
-		<link>/2022/07/22/friday-musings-22-jul-2022/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 05:25:36 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=221</guid>
-
-					<description><![CDATA[Articles I’m reading. How can I become a Director? &#160;– A very well written piece by Guru Bhat on what it takes to become a [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-30 wp-block-columns">
-<div class="wp-container-28 wp-block-column" style="flex-basis:66.66%">
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h3><strong><em>Articles I’m reading.</em></strong></h3>
-
-
-
-<p><a href="https://www.linkedin.com/pulse/how-can-i-become-director-guru-bhat/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How can I become a Director? </a>&nbsp;– A very well written piece by Guru Bhat on what it takes to become a director. Eloquent as always, Guru hits the bulls eye on some key attributes that everyone should aspire to attain if they are on a quest for this title. I’ve been fortunate to learn by experience how “Bias for Action” can be a key differentiator in creating value for our stakeholders.</p>
-
-
-
-<h3><strong><em>What worries me!</em></strong></h3>
-
-
-
-<p>It’s hard to miss the series of natural calamities rocking the already pandemic struck world right now. From the <a href="https://www.theregister.com/2022/07/19/google_oracle_cloud/?mc_cid=1674b3c928&amp;mc_eid=2b8cf1fb98" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">extreme heat waves in UK &amp; Europe</a> to <a href="https://www.thenationalnews.com/world/asia/2022/07/21/indias-monsoon-havoc-a-result-of-climate-change-experts-say/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Cloud bursts and Flash floods in India</a>, It’s time each one of us do our part to slow down climate change. <a href="https://medium.com/@cinthia.espino/why-is-0-5-c-so-important-3961b9989387" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Read this</a> if you want to know what a 0.5° Celsius change could mean to earth and <a href="https://coastal.climatecentral.org/map/10/72.9068/18.9721/?theme=sea_level_rise&amp;map_type=year&amp;basemap=roadmap&amp;contiguous=true&amp;elevation_model=best_available&amp;forecast_year=2040&amp;pathway=ssp3rcp70&amp;percentile=p50&amp;refresh=true&amp;return_level=return_level_0&amp;rl_model=gtsr&amp;slr_model=ipcc_2021_med" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">see these projections</a> of cities that would be under water if the sea-levels continues to rise.</p>
-
-
-
-<h3><strong><em>Podcasts I’m listening</em></strong></h3>
-
-
-
-<p><a href="https://tim.blog/2022/06/28/edward-o-thorp-2/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Master Investor Ed Thorp on How to think for yourself and many more topics</a> – This is a long format podcast but there&#8217;s some invaluable takeaways from Ed&#8217;s experience. I&#8217;m a big fan of the Tim&#8217;s questions to his guests and the insights that he gleans from them. What particularly excited me in this podcast was how Ed was leveraging the power of compounding in anything he does, be it investing, loosing weight, forming habits, learning new things etc. Really loved the concept of &#8220;scrap time&#8221; and hope to incorporate in my life as well.</p>
-
-
-
-<h3><strong><em>Tech Readings&nbsp;</em></strong></h3>
-
-
-
-<p><a href="https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">ML Codegen Vs Coding by Hand</a> – In the previous musings I shared about auto code-gen and it got me intrigued into aspects that are debatable and why we should tread with care. This post explores some of this nuance and has a good further reading on other thoughts on the same topic as well</p>
-
-
-
-<h3><em>Quote I&#8217;m thinking about</em></h3>
-
-
-
-<blockquote class="wp-block-quote"><p>If you really think that the environment is less important than the economy, try holding your breath while you count your money</p><cite>Guy McPherson</cite></blockquote>
 </div>
 
 

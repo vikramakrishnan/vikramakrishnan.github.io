@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sat, 24 Sep 2022 05:35:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Oct 2022 04:59:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,77 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Friday Musings 08/Oct/2022</title>
+		<link>/2022/10/09/friday-musings-08-oct-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2022 04:58:04 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=439</guid>
+
+					<description><![CDATA[Articles I’ve read. How to have better Arguments?&#160;– Arguments are inevitable these days and it&#8217;s extremely important for us to understand the basics around arguing [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://psyche.co/guides/how-to-have-arguments-that-change-minds-including-your-own" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to have better Arguments?</a>&nbsp;– Arguments are inevitable these days and it&#8217;s extremely important for us to understand the basics around arguing (why/how/when etc.). In addition to arming us with information, knowing these will help both us and the other person to get more out of the exchange.</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.ted.com/talks/shankar_vedantam_you_don_t_actually_know_what_your_future_self_wants" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">You don&#8217;t actually know what your future self wants</a>&nbsp;–&nbsp;Profound talk by one of my favorite podcast hosts, Shankar Vedantam, this video is about coming to terms that our future self will not make the same decisions as we are making today and learning some ways to help craft the person we are to become.</p>
+
+
+
+<h3><strong><em>Places I’ve Travelled</em></strong></h3>
+
+
+
+<p>Completed a long pending trip to Sikkim &amp; Darjeeling with the family.&nbsp; I&#8217;d highly recommend this as a place to visit for your next vacation. Sikkim is mind bogglingly beautiful with friendly people, interesting culture and history. Did you know that Sikkim was an independent country/Kingdom until 1975 when it was officially annexed and made the 22nd state of India.&nbsp;<a href="https://photos.google.com/share/AF1QipOaG2S8tci_elc8ogyIvUJq8d0W5Y0seDuLR9eugvLR0hgy96lpLRkgnpCvJsCuyw?key=NzNRU2xJX0JhaERVc0lKVHp6OGRMNUxRME5LZUpB" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Here&#8217;s some photos from my trip.</a></p>
+
+
+
+<h3><strong><em>Tech Readings&nbsp;&nbsp;</em></strong></h3>
+
+
+
+<p><a href="https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Resiliency in Distributed Systems</a>&nbsp;&#8211; A good read on some fundamentals to consider when working on large scale systems specifically around downstream and upstream resiliency.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Give the ones you love wings to fly, roots to come back, and reasons to stay.</p><cite>Dalai Lama</cite></blockquote>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musing 23/Sep/2022</title>
 		<link>/2022/09/23/friday-musing-23-sep-2022/</link>
 		
@@ -30,8 +101,8 @@
 
 					<description><![CDATA[Articles I’ve read. Why It’s Hard To Learn From Our Mistakes – Though a clickbait-y title, there&#8217;s some key information shared in this article around common [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,7 +152,7 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -101,8 +172,8 @@
 
 					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -152,7 +223,7 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
+<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
 <figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
@@ -414,8 +485,8 @@
 
 					<description><![CDATA[Articles I’m reading. Chesterton&#8217;s Fence &#8211; A Lesson in Second Order Thinking&#160;– &#160;&#160;As Modernization, Reorganization, Consolidation etc. become part of our usual work vocabulary, it’s [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -461,77 +532,6 @@
 
 
 <blockquote class="wp-block-quote"><p>If you set your goals ridiculously high and it&#8217;s a failure, you will fail above everyone else&#8217;s success.</p><cite>James Cameron</cite></blockquote>
-</div>
-
-
-
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings 02/Sep/2022</title>
-		<link>/2022/09/02/friday-musings-02-sep-2022/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 04:45:00 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=342</guid>
-
-					<description><![CDATA[Article I’m reading. Why Facts Don&#8217;t change Minds – &#160;“The way to change people’s minds is to become friends with them, to integrate them into [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h3><strong><em>Article I’m reading.</em></strong></h3>
-
-
-
-<p><a href="https://jamesclear.com/why-facts-dont-change-minds" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Why Facts Don&#8217;t change Minds</a> – &nbsp;“<em>The way to change people’s minds is to become friends with them, to integrate them into your tribe, to bring them into your circle. Now, they can change their beliefs without the risk of being abandoned socially</em>&#8221; &nbsp;&#8211; In this article, James talks about why facts don&#8217;t usually change minds and what does it take to get people to accept a different point of view</p>
-
-
-
-<h3><strong><em>Documentaries I&#8217;m watching</em></strong></h3>
-
-
-
-<p>&#8220;<em>Can we all become Geniuses</em>” (<a href="https://www.discoveryplus.in/videos/morgan-freemans-through-the-wormhole/can-we-all-become-geniuses?seasonId=7&amp;type=EPISODE" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Discovery+)</a> &#8211; From the episode of &#8220;Through the Wormhole&#8221; narrated by Morgan Freeman &#8211; Genius lies somewhere in the human mind, bringing mathematical insight, sparking artistic inspiration and enabling some to see what most cannot. Might we augment our biology with technology to unlock the genius inside us all?</p>
-
-
-
-<h3><strong><em>Podcasts I’m listening</em></strong></h3>
-
-
-
-<p><a href="https://www.ted.com/talks/worklife_with_adam_grant_authenticity_is_a_double_edged_sword" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Authenticity is a double-edged sword</a> – Another gem from Adam Grant where he talks about what effective authenticity looks like and how we can learn to strike the right balance.</p>
-
-
-
-<h3><strong><em>Tech Readings&nbsp;</em></strong></h3>
-
-
-
-<p><a href="https://siliconangle.com/2022/08/31/meta-ai-researchers-develop-ways-read-speech-peoples-brains/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Meta &#8211; AI, Read speech from Brain</a> – I’ve always been fascinated with the human brain and wondered if we’d ever fully understand and decode its inner workings. Here’s an interested read where Meta’s FAIR lab has been able to decode speech from non-invasive recordings of brain activity! Mind reading slowly becoming real.</p>
-
-
-
-<h3><em>Quote I&#8217;m thinking about</em></h3>
-
-
-
-<blockquote class="wp-block-quote"><p>Never argue with stupid people, they will drag you down to their level and beat you with experience.</p><cite>Mark Twain (apocryphal)</cite></blockquote>
 </div>
 
 
