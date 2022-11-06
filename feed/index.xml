@@ -12,14 +12,158 @@
 	<atom:link href="http://localhost/mySite/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sat, 22 Oct 2022 09:06:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Nov 2022 11:33:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
+		<title>Friday Musings &#8211; 04/Nov/2022</title>
+		<link>/2022/11/04/friday-musings-06-nov-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 11:29:29 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=465</guid>
+
+					<description><![CDATA[Articles I’ve read. How to Think for yourself – In this article, Paul Graham talks about importance of independent thinking. He also lists out what it [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="is-layout-flex wp-container-3 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="http://www.paulgraham.com/think.html" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to Think for yourself</a> – In this article, Paul Graham talks about importance of independent thinking. He also lists out what it means to be an independent thinker and the components of independent thinking and how we can nurture it.  I resonate with the thought that you are largely influenced by the kind of people you surround yourself with, so be open to diverse experiences, meeting and learning from new people.</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=PXwStduNw14" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Mathematics is the sense you never knew you had!</a> – I wish I had a Maths teacher like Eddie woo. In this inspiring TED talk he makes a case for why Mathematics is a sense just like touch &amp; sound and in the process inspires us to think differently about it. I wish schools taught these early on.</p>
+
+
+
+<h3><strong><em>Books I’m re-reading</em></strong></h3>
+
+
+
+<p><a href="https://www.goodreads.com/book/show/15824358-the-first-90-days" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The First 90 days</a> – This book is a roadmap for how to navigate career transitions, organizational changes and internal promotions in a way that helps speed up the process of you becoming effective, faster and smarter.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://architecturenotes.co/redis/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Architecture Notes &#8211; Redis</a> – Architecture Notes is quickly becoming my go to place to reinforce fundamentals. I like the way the content is organized and presented in an effective way to makes learning fun.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>The world suffers a lot. Not because of the violence of bad people but because of the silence of good people</strong></p>
+<cite>Napolean</cite></blockquote>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Friday Musings &#8211; 28/Oct/2022</title>
+		<link>/2022/10/28/friday-musings-28-oct-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 11:25:00 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=462</guid>
+
+					<description><![CDATA[Articles I’ve read. Non-linear workdays changing the shape of productivity – 9 to 5 work model is dead and as the world shifted to the hybrid [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="is-layout-flex wp-container-6 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://www.bbc.com/worklife/article/20220928-the-non-linear-workdays-changing-the-shape-of-productivity" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Non-linear workdays changing the shape of productivity</a> – 9 to 5 work model is dead and as the world shifted to the hybrid work model employees now can craft their work schedules that suits them the best and takes into account their natural working rhythms. While greater flexibility will lead to greater productivity, it is important to have a clearly defined process and guideposts that prevent employees from straying too far away from a collaborative working schedule.</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=FWTNMzK9vG4" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why you procrastinate even when it feels bad</a> – I’m a master procrastinator and have been trying hard to overcome it for many years now (maybe procrastinating too much the actions required to overcome procrastination!) While I’ve gotten progressively better it’s important to understand the underlying reasons for why we put off things so we can learn to become better. This video talks about the importance of balancing emotions and how they can affect why we put off certain things and what we can do to change.</p>
+
+
+
+<h3><strong><em>Podcasts I Listened</em></strong></h3>
+
+
+
+<p><a href="https://hbr.org/video/6312276697112/how-to-work-with-a-passiveaggressive-coworker-the-harvard-business-review-guide" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to Work with a Passive-Aggressive Coworker</a> – From the HBR channel, this is an 8 min video episode with some great tips to deal with passive aggressive folks at work. We’ve all been there on both sides of the table and understanding this a bit more can help us all become a bit better.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://roadmap.sh/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Career Roadmaps for Developers</a> – By far one of the best organized contents I’ve seen to help developers in picking up a path and guide their learning. Best part – it’s open source, so if you want to add something you don’t see and think it’ll be useful for the community, submit a PR.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Don’t be fooled by the calendar. There are only as many days in the year as you make use of. One man gets only a week’s value out of a year while another man gets a full year’s value out of a week.</p><cite>Charles Richard</cite></blockquote>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings &#8211; 21/Oct/2022</title>
 		<link>/2022/10/21/friday-musings-21-oct-2022/</link>
 		
@@ -30,8 +174,8 @@
 
 					<description><![CDATA[Articles I’ve read. How much would you pay for a box that beeps! – This article had interesting nuggets on how to pitch a product to [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:66.66%">
+<div class="is-layout-flex wp-container-9 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -81,8 +225,8 @@
 
 
 
-<div class="wp-container-2 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
 ]]></content:encoded>
@@ -101,8 +245,8 @@
 
 					<description><![CDATA[Articles I’ve read. 3 Types of Meetings — and How to Do Each One Well – A refresher on how to handle meetings in a hybrid [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:66.66%">
+<div class="is-layout-flex wp-container-12 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -152,8 +296,8 @@
 
 
 
-<div class="wp-container-5 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
 ]]></content:encoded>
@@ -172,8 +316,8 @@
 
 					<description><![CDATA[Articles I’ve read. How to have better Arguments?&#160;– Arguments are inevitable these days and it&#8217;s extremely important for us to understand the basics around arguing [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-7 wp-block-column" style="flex-basis:66.66%">
+<div class="is-layout-flex wp-container-15 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -223,8 +367,8 @@
 
 
 
-<div class="wp-container-8 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
 ]]></content:encoded>
@@ -243,8 +387,8 @@
 
 					<description><![CDATA[Articles I’ve read. Why It’s Hard To Learn From Our Mistakes – Though a clickbait-y title, there&#8217;s some key information shared in this article around common [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-12 wp-block-columns">
-<div class="wp-container-10 wp-block-column" style="flex-basis:66.66%">
+<div class="is-layout-flex wp-container-18 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -294,8 +438,8 @@
 
 
 
-<div class="wp-container-11 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
 ]]></content:encoded>
@@ -314,8 +458,8 @@
 
 					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-13 wp-block-column" style="flex-basis:66.66%">
+<div class="is-layout-flex wp-container-21 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -365,8 +509,8 @@
 
 
 
-<div class="wp-container-14 wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
 </div>
 </div>
 ]]></content:encoded>
@@ -552,56 +696,6 @@
 
 
 <ul><li><a href="https://dev.to/jeroendedauw/advice-for-junior-developers-30am" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Advice for Junior Developers</a> – I wish I read this before talking to a bunch of junior devs a couple days ago. This article presents an important list of things that budding devs should start assimilating as part of their work. While many of us would feel this is intuitive, actioning it needs intentional practice.</li><li><a href="https://makeavideo.studio/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Make-A-Video</a> &amp; <a href="https://phenaki.github.io/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Phenaki</a> – Following Meta AI’s announcement 2 weeks ago of their “text to Video” generator, Google has release 2 of their own text to video generators this week. It’s amazing to see the acceleration in text to image, video and audio models. Looking forward to a full-fledged movie created by AI only with story prompts!</li><li><a href="https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Resiliency in Distributed Systems</a> &#8211; A good read on some fundamentals to consider when working on large scale systems specifically around downstream and upstream resiliency.</li><li><a href="https://typefully.com/DanHollick/qr-codes-T7tLlNi" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">QR Codes!</a> In fascinating that the Toyota subsidiary that invented the QR code never exercised its patent and released it for free making these pixelated blobs omnipresent and so useful these days.</li><li><a href="https://engineering.fb.com/2022/09/12/open-source/memlab/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">MemLab: An open source framework for finding JavaScript memory leaks</a> – Interesting read on how Facebook detects in-browser memory leaks and how it’s benefitted them.</li><li>Taking it light and doing a small tech history lesson, <a href="https://www.youtube.com/watch?v=NTfOnGZUZDk" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Where GREP Came From &#8211; Computerphile</a> – Computerphile was recommended to me by <strong><a href="https://www.linkedin.com/in/hariprasadkulkarni/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Hari</a></strong> and I found some of their content very informative with some interesting speakers on the lineup.</li><li><a href="https://siliconangle.com/2022/08/31/meta-ai-researchers-develop-ways-read-speech-peoples-brains/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Meta &#8211; AI, Read speech from Brain</a> – I’ve always been fascinated with the human brain and wondered if we’d ever fully understand and decode its inner workings. Here’s an interested read where Meta’s FAIR lab has been able to decode speech from non-invasive recordings of brain activity! Mind reading slowly becoming real.</li><li><strong>__</strong><a href="https://facebook.github.io/zstd/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">ZStandard</a> – Thanks  <strong><a href="https://www.linkedin.com/in/subramaniajeeva/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Jeeva</a></strong>  for sharing this one. ZStandard is a fast compression algorithm, providing high compression ratios. It also offers a special mode for small data, called dictionary compression. The reference library offers a very wide range of speed / compression trade-off, and is backed by an extremely fast decoder</li><li><a href="https://levelup.gitconnected.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Firefox and its sad decline…</a> – I love Firefox, but this is an example what happens to a product when there&#8217;s mis-timing, lack of customer focus and market understanding issues coupled with bad decisions. It&#8217;s sad to see Firefox fall from over 34% browser market share in 2010 to less than 3.5% currently.</li><li><a href="https://github.com/jorgef/engineeringladders" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Engineering Ladders</a> – This is a wonderful resource for Managers that’ll help in having meaningful career conversations around expectations at each level for both Engineering and management tracks. This is not intended to be used as a checklist for promotions, rather a guidance for career conversations</li><li><a href="https://refactoring.fm/p/the-power-of-inversion-" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Power of Inversion</a> – &#8221; <em>Avoiding stupidity is easier than seeking brilliance</em> &#8220;. This post explores some common applications of the Inversion mental model in engineering and how we can use it to make things better.</li><li><a href="https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">ML Codegen Vs Coding by Hand</a> – In the previous musings I shared about auto code-gen and it got me intrigued into aspects that are debatable and why we should tread with care. This post explores some of this nuance and has a good further reading on other thoughts on the same topic as well</li><li><strong>__</strong><a href="https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Can GPT-3 explain how code works?</a> – I was amazed by the extent to which models like GPT-3 &amp; OpenAI Codex are getting increasingly efficient at writing code. Makes me wonder when we’d land in a situation where we no longer hire programmers</li><li>**<a href="https://www.morling.dev/blog/whats-in-a-good-error-message/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">What&#8217;s in a good Error Message</a>? **– <em>Extremely important for all engineering devs and leads reviewing code. Both the article and the discussion/comments following it has several extremely using nuggets we should think about.</em></li><li><a href="https://cachelib.org/learnmore/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">CacheLib</a> – Facebook’s web scale general purpose caching engine that powers multiple critical applications.</li><li><strong>__</strong><a href="https://neuralink.com/blog/monkey-mindpong/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Mind Pong!</a> – I’m so excited to see how tech like these will change our future and the things we’ll be able to accomplish. While a part of this brings hope, there’s fear on what this would do in the wrong hands.</li><li><a href="https://techcrunch.com/2022/05/23/openai-look-at-our-awesome-image-generator-google-hold-my-shiba-inu/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Google Imagen</a> &#8211; What is original / real / true? With tech like GPT-3, Imagen etc, answering questions like this, fact checking news articles, authenticating artwork will get increasingly difficult with expanding AI prowess.</li><li><strong>__</strong><a href="https://makersacademy.medium.com/what-is-rubber-duck-debugging-d3028d70a707" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Rubber Duck Debugging</a>. I never knew what I used occasionally as a Developer in the early days had a name and real psychology behind it!</li></ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Podcasts Episodes</title>
-		<link>/2022/09/10/podcasts/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Sat, 10 Sep 2022 11:23:22 +0000</pubDate>
-				<category><![CDATA[Collections]]></category>
-		<guid isPermaLink="false">/?p=382</guid>
-
-					<description><![CDATA[Here&#8217;s a list of Podcast episodes i&#8217;ve found worth sharing. Thriving In The Face Of Contradiction – Another good one from Hidden Brain. From the podcast excerpt [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h6>Here&#8217;s a list of Podcast episodes i&#8217;ve found worth sharing.</h6>
-
-
-
-<ul><li><a href="https://hiddenbrain.org/podcast/thriving-in-the-face-of-contradiction/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Thriving In The Face Of Contradiction</a> – Another good one from Hidden Brain. From the podcast excerpt &#8211; “ <em>We all face tough decisions in life, whether we’re juggling the demands of work and family or deciding whether to take a new job. These situations often feel like either/or choices. But psychologist <a href="https://lerner.udel.edu/faculty-staff-directory/wendy-smith/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Wendy Smith</a> says this binary way of confronting dilemmas contains a trap. She offers a different way to think about difficult choices, one that opens unexpected possibilities.”</em></li><li><a href="https://freakonomics.com/podcast/whats-wrong-with-holding-a-grudge/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">No Stupid Questions &#8211; What&#8217;s wrong with holding a grudge?</a> – Another good conversation between Angela and Stephen where they talk about the emotional cost of grudge, how to let go of resentment, whether Apologies work.</li><li><a href="https://allinchamathjason.libsyn.com/e96-adobe-acquires-figma-for-20b-tpb-spac-fedex-ceos-recession-warning-macro-picture-more" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">All-In &#8211; Adobe acquires Figma for $20B, TPB SPAC, FedEx CEO&#8217;s recession warning, macro picture &amp; more</a> – It takes some getting used to this podcast format of multi-participant discussion on varied topics, but once you are over it, you’ll come to appreciate the depth of analysis on topics and the amount of critical thinking involved and the kind of questions raised. In this episode Chamath, sacks and others dissect the Adobe-Figma deal &amp; fears of a global recession.</li><li><a href="https://www.ted.com/talks/worklife_with_adam_grant_authenticity_is_a_double_edged_sword" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Authenticity is a double-edged sword</a> – Another gem from Adam Grant where he talks about what effective authenticity looks like and how we can learn to strike the right balance.</li><li><a href="https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Sleep Toolkit: Tools For Optimizing Sleep &amp; Sleep-Wake Timing</a> &#8211; Dr. Huberman provides practical tips to improve and optimize sleep patterns. I&#8217;ve personally incorporated some of this (morning sunlight exposure, core body temperature rise, early dinner)  in my daily routine and can definitely see improvements in waking up energy, sleep quality etc.</li><li><a href="https://hiddenbrain.org/podcast/you-2-0-befriending-your-inner-voice/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">You 2.0 &#8211; Befriending your inner voice</a> – What we say to ourselves, and our inner voice is a big contributor to how we think, act, react and transform. This podcast covers the effect of this chatter, and how to keep our negative emotions from transforming to chatter and harness its power in a constructive way.</li><li><a href="https://freakonomics.com/podcast/should-you-try-to-be-less-angry/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Should You Try to Be Less Angry?</a> – Another one from my favorite podcasts – “No Stupid Questions” where Angela and Stephen discuss about Anger and it effects. While it’s not always good to keep the pot boiling, Anger as evolutionary measure does come in handy in situations and it is important we learn more about how to tackle our emotions and understand its effects.</li><li><a href="https://tim.blog/2022/06/28/edward-o-thorp-2/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Master Investor Ed Thorp on How to think for yourself and many more topics</a> – This is a long format podcast but there&#8217;s some invaluable takeaways from Ed&#8217;s experience. I&#8217;m a big fan of the Tim&#8217;s questions to his guests and the insights that he gleans from them. What particularly excited me in this podcast was how Ed was leveraging the power of compounding in anything he does, be it investing, loosing weight, forming habits, learning new things etc. Really loved the concept of &#8220;scrap time&#8221; and hope to incorporate in my life as well.</li><li><a href="https://hiddenbrain.org/podcast/why-youre-smarter-than-you-think/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why you&#8217;re smarter than you think!</a> – From the Hidden brain show notes – “ <em>From the time we are schoolchildren, we are ranked and sorted based on how smart we are. But what if our assumptions about intelligence limit our potential? This week, psychologist Scott Barry Kaufman proposes a more expansive notion of what it means to be “smart</em> &#8220;.</li><li><a href="https://freakonomics.com/podcast/how-simple-is-too-simple/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><strong>How simple is too simple</strong></a> – <em>In this episode of “No Stupid Questions”, Angela Duckworth and Stephen Dubner discuss the obsession humans have with magic bullet solutions and why there are no simple answers.</em></li><li><a href="https://link.chtbl.com/KmhQvIwN" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to Change Your Workplace</a> – Adam Grant’s “Work Life” has been one of my all-time favorite podcasts and in this episode he delves into “Change” and how each one of us no matter where we are in the hierarchy can bring about meaningful, positive, long-lasting change and motivate people to embrace new ideas.</li><li><a href="https://hiddenbrain.org/podcast/why-conversations-go-wrong/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Mind Reading 2.0: Why Conversations go wrong</a> hosted by Shankar Vedantam (<a href="https://twitter.com/HiddenBrain" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">@HiddenBrain</a>) where they talk about conversational styles and why understanding them is important to be able to effectively communicate.</li></ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Videos</title>
-		<link>/2022/09/10/videos/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Sat, 10 Sep 2022 10:30:42 +0000</pubDate>
-				<category><![CDATA[Collections]]></category>
-		<guid isPermaLink="false">/?p=375</guid>
-
-					<description><![CDATA[Here&#8217;s a list of Videos i&#8217;ve watched in the past and found worth sharing. The Man Who Accidentally Killed The Most People In History – How did [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h6>Here&#8217;s a list of Videos i&#8217;ve watched in the past and found worth sharing.</h6>
-
-
-
-<ul><li><a href="https://www.youtube.com/watch?v=IV3dnLzthDA" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Man Who Accidentally Killed The Most People In History</a> – How did one man’s effort or a specific business’s interest create a long standing health problem and environmental catastrophe of the modern world is the premise of this video. I personally learnt a lot of new and interesting things in the video. Some parts chemistry, some parts psychology and a bit of economics!</li><li><a href="https://www.youtube.com/watch?v=4hg1K0HD5Xo" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Locked in a machine for 70 years</a> – Inspiring story of Paul Alexander, a polio survivor, who beat the odds and continues to be one of last surviving people living in an Iron Lung. It was emotional for me to know the hardships he had to overcome and still achieve things many can only dream about.</li><li><a href="https://www.ted.com/talks/shankar_vedantam_you_don_t_actually_know_what_your_future_self_wants" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">You don&#8217;t actually know what your future self wants</a> – Profound talk by one of my favorite podcast hosts, Shankar Vedantam, this video is about coming to terms that our future self will not make the same decisions as we are making today and learning some ways to help craft the person we are to become.</li><li><a href="https://www.youtube.com/watch?v=E6bVBH9y5O8" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Biggest Myth About Climate Change</a> – With increased occurrences of extreme climate events, it’s hard to ignore the fact that climate change is real, and we need concrete action to minimize its adverse effects. In this video, Joe explains how Climate change naysayers are incorrect and why there’s nothing “natural” about climate change.<a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"></a></li><li><a href="https://www.youtube.com/watch?v=yN9XgwVHvK4" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why Genghis Khan Refused to Invade India</a> – My weekly dose of a little bit of history and this one is a refreshing take on Genghis Khan.</li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"></a><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why You Are Lonely and How to Make Friends</a> – Pandemic has decreased social interactions than before, limiting mostly to virtual connects. This video explains why it&#8217;s important that we seek out friends and social connections and practical tips of how to go about it.</li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"></a><a href="https://www.youtube.com/watch?v=5eW6Eagr9XA" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The 4 things it takes to be an expert</a> – <a href="https://www.linkedin.com/in/subhadip-panja-28612a18/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"><strong>Subhadip</strong> </a>recommended Veritasium a couple months back and I&#8217;ve since then become a fan of their videos. In this video, Dr. Derek talks about the 4 things that are required to become an expert at things and why you can’t have expert in every field</li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"></a><a href="https://www.youtube.com/watch?v=biNMRQJXvfs" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Why No One Can Agree What’s REALLY the Tallest Mountain</a> – Did you know that the longest mountain range in earth is under sea and the tallest peak isn&#8217;t necessarily the Everest? There&#8217;s never a time when I have come out of a video from this channel without learning something new and also wondering how some of the simplest things we assume from our schooling can actually be very complex.</li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">As someone who personally struggles with initiating the first conversation, I found </a><a href="https://www.youtube.com/watch?v=F4Zu5ZZAG7I" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">7 Ways to Make a Conversation with Anyone</a> very insightful and practical. It’s a beautiful TEDx talk that you’ll appreciate if you are working to get better at connecting and talking to someone.</li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">**</a><a href="https://www.youtube.com/watch?v=2A7mblg5UKc" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Trying to Land a Plane (to Prove a Point)</a> **- <em>I’ve always been intrigued by Dunning-Krueger effect &amp; Imposter Syndrome and how it pretty much manifests in everybody. Personally I’m starting to get comfortable saying “I Don’t Know” and “I need help” more often these days.</em></li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"></a><a href="https://www.youtube.com/watch?v=LEENEFaVUzU" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Last Human! &#8211; A Glimpse into the Far Future</a> &#8211; I’ve always been mesmerized by Futurism. It expands your own thought process of what’s possible and how to think about things. It opens your mind to the various possibilities of handling situations not only in the future but also in the present.</li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">* </a><a href="https://www.youtube.com/watch?v=30vTc1SOt_w" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Sensory Adaptation!</a> &#8211; Without this very strange phenomenon, you would be lost, overwhelmed, and completely unable to navigate the external world.</li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">* </a><a href="https://www.youtube.com/watch?v=F-nNTGK0wFw" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Unanswered &#8211; Mysteries from the Mahabharata | Christopher Charles Doyle | TEDxYouth@NMS</a></li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">* </a><a href="https://www.youtube.com/watch?v=6syj1PWMDLM" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Did Ancient India have AI Robot Technology?</a></li><li><a href="https://www.youtube.com/watch?v=I9hJ_Rux9y0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer"></a><a href="https://www.youtube.com/watch?v=75d_29QWELk" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Change your Life, one step at a time</a> : I’m a big fan of <a href="https://www.youtube.com/c/inanutshell" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Kurzgesagt</a> videos and highly recommend it. This one came exactly when I was thinking of making some small changes in my lifestyle. I’ve been awe-inspired by the amount of research that goes behind making some of these videos. <a href="https://sites.google.com/view/sources-change/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Here&#8217;s</a> the supplementary info for this particular video.</li></ul>
 ]]></content:encoded>
 					
 		
