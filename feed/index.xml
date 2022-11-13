@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sun, 06 Nov 2022 11:38:52 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Nov 2022 10:53:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,79 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
+		<title>Friday Musings &#8211; 11/Nov/2022</title>
+		<link>/2022/11/11/friday-musings-11-nov-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 11 Nov 2022 10:45:12 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=476</guid>
+
+					<description><![CDATA[Articles I’ve read. Technology that lets us “speak” to our dead relatives has arrived. Are we ready? – Personally, I believe tech like this would only [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="is-layout-flex wp-container-3 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Technology that lets us “speak” to our dead relatives has arrived. Are we ready?</a> – Personally, I believe tech like this would only worsen grief than help. With AI getter significantly better each day, there’s going to be more dilemmas like these that we need to be prepared to handle. </p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=Z2Y0GMCFWq0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Could one vaccine protect against everything?</a> – This is the same question I had when taking 3 shots of the COVID vaccine. I wonder how a world without diseases would look like and what would happen to the entire healthcare sector (apart from these vaccine makers) when this becomes true.</p>
+
+
+
+<h3><strong><em>Podcasts I’m Listening</em></strong></h3>
+
+
+
+<p><a href="https://hubermanlab.com/dr-layne-norton-the-science-of-eating-for-health-fat-loss-and-lean-muscle/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Dr. Layne Norton: The Science of Eating&#8230;</a> – From the Huberman Lab podcast, this is by far the most comprehensive information I’ve seen on diet, nutrition, Health &amp; the entire science behind it. Dr. Layne and Dr. Huberman cover a wide variety of important topics in this really long form episode, but you can find timestamps to sections that you can use to know about things you feel important.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://blog.kagi.com/age-pagerank-over" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Age of PageRank is Over!</a> – With search patterns increasingly moving over from traditional search engines to products like TikTok, Instagram etc, it’s only natural that we’ll very soon have AI powered, hyper-personalized search systems that’ll determine what I see, read, use and recommend.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote">
+<p>You don’t stop having fun because you get old; You get Old because you stop having Fun</p>
+<cite>Anon</cite></blockquote>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings &#8211; 04/Nov/2022</title>
 		<link>/2022/11/04/friday-musings-06-nov-2022/</link>
 		
@@ -30,7 +103,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to Think for yourself – In this article, Paul Graham talks about importance of independent thinking. He also lists out what it [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-3 wp-block-columns">
+<div class="is-layout-flex wp-container-6 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -103,7 +176,7 @@
 
 					<description><![CDATA[Articles I’ve read. Non-linear workdays changing the shape of productivity – 9 to 5 work model is dead and as the world shifted to the hybrid [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-6 wp-block-columns">
+<div class="is-layout-flex wp-container-9 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -174,7 +247,7 @@
 
 					<description><![CDATA[Articles I’ve read. How much would you pay for a box that beeps! – This article had interesting nuggets on how to pitch a product to [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-9 wp-block-columns">
+<div class="is-layout-flex wp-container-12 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -245,7 +318,7 @@
 
 					<description><![CDATA[Articles I’ve read. 3 Types of Meetings — and How to Do Each One Well – A refresher on how to handle meetings in a hybrid [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-12 wp-block-columns">
+<div class="is-layout-flex wp-container-15 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -316,7 +389,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to have better Arguments?&#160;– Arguments are inevitable these days and it&#8217;s extremely important for us to understand the basics around arguing [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-15 wp-block-columns">
+<div class="is-layout-flex wp-container-18 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -387,7 +460,7 @@
 
 					<description><![CDATA[Articles I’ve read. Why It’s Hard To Learn From Our Mistakes – Though a clickbait-y title, there&#8217;s some key information shared in this article around common [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-18 wp-block-columns">
+<div class="is-layout-flex wp-container-21 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -458,7 +531,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-21 wp-block-columns">
+<div class="is-layout-flex wp-container-24 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -527,8 +600,14 @@
 				<category><![CDATA[Collections]]></category>
 		<guid isPermaLink="false">/?p=393</guid>
 
-					<description><![CDATA[The world suffers a lot. Not because of the violence of bad people but because of the silence of good people Napolean Don’t be fooled [&#8230;]]]></description>
+					<description><![CDATA[You don’t stop having fun because you get old; You get Old because you stop having Fun Anon The world suffers a lot. Not because [&#8230;]]]></description>
 										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote">
+<p>You don’t stop having fun because you get old; You get Old because you stop having Fun</p>
+<cite>Anon</cite></blockquote>
+
+
+
 <blockquote class="wp-block-quote">
 <p>The world suffers a lot. Not because of the violence of bad people but because of the silence of good peop<strong>le</strong></p>
 <cite>Napolean</cite></blockquote>
@@ -775,105 +854,6 @@
 
 
 <ul><li>&#8220;<em>The extraordinary Genius of Albert Einstein</em> ” (<a href="https://www.youtube.com/watch?v=C8Zkd9VYdp4" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Youtube</a>)- reflecting on the principle of relativity in terms of social relations and individual identities or thought processes, asking the question &#8211; how was Einstein able to make his breakthrough?</li><li>&#8221; <em>Can we all become Geniuses</em> ” (<a href="https://www.discoveryplus.in/videos/morgan-freemans-through-the-wormhole/can-we-all-become-geniuses?seasonId=7&amp;type=EPISODE" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Discovery+)</a> &#8211; From the episode of &#8220;Through the Wormhole&#8221; narrated by Morgan Freeman &#8211; Genius lies somewhere in the human mind, bringing mathematical insight, sparking artistic inspiration and enabling some to see what most cannot. Might we augment our biology with technology to unlock the genius inside us all?</li><li><a href="https://www.youtube.com/watch?v=bFCOm1P_cQQ" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Brain that changes itself</a> – Our Brain is fantastic and continues to amaze researchers trying to unlock its secrets. You would’ve heard people say Change is hard and most people hate change, but if you look deep, your body and specifically your Brain is tuned efficiently adapt, handle and thrive with continuous changes.</li><li><a href="https://www.youtube.com/watch?v=GYHu0ivfR_o" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Ancient Aliens &#8211; Puzzling Pillars</a> – Temple pillars that can sing and reverberate. No existing technology can easily reproduce these ancient marvels at the scale it was done. One wonders, where&#8217;s all that lost knowledge from Ancient India. While I’ve still not visited Hampi, i was personally fortunate to experience the sounds from these stone pillars that <a href="https://en.wikipedia.org/wiki/Nellaiappar_Temple" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Sri Nellayappar Temple in Tirunelveli</a>.</li></ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Tech Readings</title>
-		<link>/2022/09/10/tech-readings/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Sat, 10 Sep 2022 11:26:35 +0000</pubDate>
-				<category><![CDATA[Collections]]></category>
-		<guid isPermaLink="false">/?p=388</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<ul>
-<li><a href="https://architecturenotes.co/redis/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Architecture Notes &#8211; Redis</a>&nbsp;– Architecture Notes is quickly becoming my go to place to reinforce fundamentals. I like the way the content is organized and presented in an effective way to makes learning fun.</li>
-
-
-
-<li><a href="https://roadmap.sh/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Career Roadmaps for Developers</a>&nbsp;– By far one of the best organized contents I’ve seen to help developers in picking up a path and guide their learning. Best part – it’s open source, so if you want to add something you don’t see and think it’ll be useful for the community, submit a PR.</li>
-
-
-
-<li><a href="https://dev.to/jeroendedauw/advice-for-junior-developers-30am" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Advice for Junior Developers</a> – I wish I read this before talking to a bunch of junior devs a couple days ago. This article presents an important list of things that budding devs should start assimilating as part of their work. While many of us would feel this is intuitive, actioning it needs intentional practice.</li>
-
-
-
-<li><a href="https://makeavideo.studio/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Make-A-Video</a>&nbsp;&amp;&nbsp;<a href="https://phenaki.github.io/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Phenaki</a>&nbsp;– Following Meta AI’s announcement 2 weeks ago of their “text to Video” generator, Google has release 2 of their own text to video generators this week. It’s amazing to see the acceleration in text to image, video and audio models. Looking forward to a full-fledged movie created by AI only with story prompts!</li>
-
-
-
-<li><a href="https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Resiliency in Distributed Systems</a> &#8211; A good read on some fundamentals to consider when working on large scale systems specifically around downstream and upstream resiliency.</li>
-
-
-
-<li><a href="https://typefully.com/DanHollick/qr-codes-T7tLlNi" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">QR Codes!</a>&nbsp;In fascinating that the Toyota subsidiary that invented the QR code never exercised its patent and released it for free making these pixelated blobs&nbsp;omnipresent and so useful these days.</li>
-
-
-
-<li><a href="https://engineering.fb.com/2022/09/12/open-source/memlab/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">MemLab: An open source framework for finding JavaScript memory leaks</a>&nbsp;–&nbsp;Interesting read on how Facebook detects in-browser memory leaks and how it’s benefitted them.</li>
-
-
-
-<li>Taking it light and doing a small tech history lesson, <a href="https://www.youtube.com/watch?v=NTfOnGZUZDk" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Where GREP Came From &#8211; Computerphile</a> – Computerphile was recommended to me by <strong><a href="https://www.linkedin.com/in/hariprasadkulkarni/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Hari</a></strong> and I found some of their content very informative with some interesting speakers on the lineup.</li>
-
-
-
-<li><a href="https://siliconangle.com/2022/08/31/meta-ai-researchers-develop-ways-read-speech-peoples-brains/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Meta &#8211; AI, Read speech from Brain</a> – I’ve always been fascinated with the human brain and wondered if we’d ever fully understand and decode its inner workings. Here’s an interested read where Meta’s FAIR lab has been able to decode speech from non-invasive recordings of brain activity! Mind reading slowly becoming real.</li>
-
-
-
-<li><strong>__</strong><a href="https://facebook.github.io/zstd/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">ZStandard</a>&nbsp;–&nbsp;Thanks&nbsp; <strong><a href="https://www.linkedin.com/in/subramaniajeeva/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Jeeva</a></strong> &nbsp;for sharing this one. ZStandard is a fast compression algorithm, providing high compression ratios. It also offers a special mode for small data, called dictionary compression. The reference library offers a very wide range of speed / compression trade-off, and is backed by an extremely fast decoder</li>
-
-
-
-<li><a href="https://levelup.gitconnected.com/why-firefox-deserves-its-sad-decline-1c44d9ba59c9" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Firefox and its sad decline…</a> – I love Firefox, but this is an example what happens to a product when there&#8217;s mis-timing, lack of customer focus and market understanding issues coupled with bad decisions. It&#8217;s sad to see Firefox fall from over 34% browser market share in 2010 to less than 3.5% currently.</li>
-
-
-
-<li><a href="https://github.com/jorgef/engineeringladders" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Engineering Ladders</a> – This is a wonderful resource for Managers that’ll help in having meaningful career conversations around expectations at each level for both Engineering and management tracks. This is not intended to be used as a checklist for promotions, rather a guidance for career conversations</li>
-
-
-
-<li><a href="https://refactoring.fm/p/the-power-of-inversion-" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Power of Inversion</a> – &#8221; <em>Avoiding stupidity is easier than seeking brilliance</em> &#8220;. This post explores some common applications of the Inversion mental model in engineering and how we can use it to make things better.</li>
-
-
-
-<li><a href="https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">ML Codegen Vs Coding by Hand</a> – In the previous musings I shared about auto code-gen and it got me intrigued into aspects that are debatable and why we should tread with care. This post explores some of this nuance and has a good further reading on other thoughts on the same topic as well</li>
-
-
-
-<li><strong>__</strong><a href="https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Can GPT-3 explain how code works?</a> – I was amazed by the extent to which models like GPT-3 &amp; OpenAI Codex are getting increasingly efficient at writing code. Makes me wonder when we’d land in a situation where we no longer hire programmers</li>
-
-
-
-<li>**<a href="https://www.morling.dev/blog/whats-in-a-good-error-message/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">What&#8217;s in a good Error Message</a>? **– <em>Extremely important for all engineering devs and leads reviewing code. Both the article and the discussion/comments following it has several extremely using nuggets we should think about.</em></li>
-
-
-
-<li><a href="https://cachelib.org/learnmore/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">CacheLib</a> – Facebook’s web scale general purpose caching engine that powers multiple critical applications.</li>
-
-
-
-<li><strong>__</strong><a href="https://neuralink.com/blog/monkey-mindpong/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Mind Pong!</a> – I’m so excited to see how tech like these will change our future and the things we’ll be able to accomplish. While a part of this brings hope, there’s fear on what this would do in the wrong hands.</li>
-
-
-
-<li><a href="https://techcrunch.com/2022/05/23/openai-look-at-our-awesome-image-generator-google-hold-my-shiba-inu/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Google Imagen</a> &#8211; What is original / real / true? With tech like GPT-3, Imagen etc, answering questions like this, fact checking news articles, authenticating artwork will get increasingly difficult with expanding AI prowess.</li>
-
-
-
-<li><strong>__</strong><a href="https://makersacademy.medium.com/what-is-rubber-duck-debugging-d3028d70a707" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Rubber Duck Debugging</a>. I never knew what I used occasionally as a Developer in the early days had a name and real psychology behind it!</li>
-</ul>
 ]]></content:encoded>
 					
 		

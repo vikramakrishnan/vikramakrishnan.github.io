@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/category/friday-musings/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sun, 06 Nov 2022 11:33:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Nov 2022 10:49:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,79 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
+		<title>Friday Musings &#8211; 11/Nov/2022</title>
+		<link>/2022/11/11/friday-musings-11-nov-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 11 Nov 2022 10:45:12 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=476</guid>
+
+					<description><![CDATA[Articles I’ve read. Technology that lets us “speak” to our dead relatives has arrived. Are we ready? – Personally, I believe tech like this would only [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="is-layout-flex wp-container-3 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Technology that lets us “speak” to our dead relatives has arrived. Are we ready?</a> – Personally, I believe tech like this would only worsen grief than help. With AI getter significantly better each day, there’s going to be more dilemmas like these that we need to be prepared to handle. </p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=Z2Y0GMCFWq0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Could one vaccine protect against everything?</a> – This is the same question I had when taking 3 shots of the COVID vaccine. I wonder how a world without diseases would look like and what would happen to the entire healthcare sector (apart from these vaccine makers) when this becomes true.</p>
+
+
+
+<h3><strong><em>Podcasts I’m Listening</em></strong></h3>
+
+
+
+<p><a href="https://hubermanlab.com/dr-layne-norton-the-science-of-eating-for-health-fat-loss-and-lean-muscle/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Dr. Layne Norton: The Science of Eating&#8230;</a> – From the Huberman Lab podcast, this is by far the most comprehensive information I’ve seen on diet, nutrition, Health &amp; the entire science behind it. Dr. Layne and Dr. Huberman cover a wide variety of important topics in this really long form episode, but you can find timestamps to sections that you can use to know about things you feel important.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://blog.kagi.com/age-pagerank-over" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Age of PageRank is Over!</a> – With search patterns increasingly moving over from traditional search engines to products like TikTok, Instagram etc, it’s only natural that we’ll very soon have AI powered, hyper-personalized search systems that’ll determine what I see, read, use and recommend.</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote">
+<p>You don’t stop having fun because you get old; You get Old because you stop having Fun</p>
+<cite>Anon</cite></blockquote>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings &#8211; 04/Nov/2022</title>
 		<link>/2022/11/04/friday-musings-06-nov-2022/</link>
 		
@@ -30,7 +103,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to Think for yourself – In this article, Paul Graham talks about importance of independent thinking. He also lists out what it [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-3 wp-block-columns">
+<div class="is-layout-flex wp-container-6 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -103,7 +176,7 @@
 
 					<description><![CDATA[Articles I’ve read. Non-linear workdays changing the shape of productivity – 9 to 5 work model is dead and as the world shifted to the hybrid [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-6 wp-block-columns">
+<div class="is-layout-flex wp-container-9 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -174,7 +247,7 @@
 
 					<description><![CDATA[Articles I’ve read. How much would you pay for a box that beeps! – This article had interesting nuggets on how to pitch a product to [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-9 wp-block-columns">
+<div class="is-layout-flex wp-container-12 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -245,7 +318,7 @@
 
 					<description><![CDATA[Articles I’ve read. 3 Types of Meetings — and How to Do Each One Well – A refresher on how to handle meetings in a hybrid [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-12 wp-block-columns">
+<div class="is-layout-flex wp-container-15 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -316,7 +389,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to have better Arguments?&#160;– Arguments are inevitable these days and it&#8217;s extremely important for us to understand the basics around arguing [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-15 wp-block-columns">
+<div class="is-layout-flex wp-container-18 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -387,7 +460,7 @@
 
 					<description><![CDATA[Articles I’ve read. Why It’s Hard To Learn From Our Mistakes – Though a clickbait-y title, there&#8217;s some key information shared in this article around common [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-18 wp-block-columns">
+<div class="is-layout-flex wp-container-21 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -458,7 +531,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-21 wp-block-columns">
+<div class="is-layout-flex wp-container-24 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -529,7 +602,7 @@
 
 					<description><![CDATA[Articles I’m reading. Chesterton&#8217;s Fence &#8211; A Lesson in Second Order Thinking&#160;– &#160;&#160;As Modernization, Reorganization, Consolidation etc. become part of our usual work vocabulary, it’s [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-24 wp-block-columns">
+<div class="is-layout-flex wp-container-27 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -600,7 +673,7 @@
 
 					<description><![CDATA[Article I’m reading. Why Facts Don&#8217;t change Minds – &#160;“The way to change people’s minds is to become friends with them, to integrate them into [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-27 wp-block-columns">
+<div class="is-layout-flex wp-container-30 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -647,77 +720,6 @@
 
 
 <blockquote class="wp-block-quote"><p>Never argue with stupid people, they will drag you down to their level and beat you with experience.</p><cite>Mark Twain (apocryphal)</cite></blockquote>
-</div>
-
-
-
-<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
-<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Friday Musings &#8211; 26/Aug/2022</title>
-		<link>/2022/08/26/friday-musings-26-aug-2022/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Fri, 26 Aug 2022 11:21:47 +0000</pubDate>
-				<category><![CDATA[Friday Musings]]></category>
-		<guid isPermaLink="false">/?p=336</guid>
-
-					<description><![CDATA[Article I’m reading. Lifestyles &#8211; Morgan Housel – A well written piece that talks about how important mindsets are and how finding a balance between [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-30 wp-block-columns">
-<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h3><strong><em>Article I’m reading.</em></strong></h3>
-
-
-
-<p><a href="https://www.collaborativefund.com/blog/lifestyles/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Lifestyles &#8211; Morgan Housel</a> – A well written piece that talks about how important mindsets are and how finding a balance between external vs internal measures of success or happiness are core to our wellbeing.</p>
-
-
-
-<h3><strong><em>Videos I watched</em></strong></h3>
-
-
-
-<p><a rel="noreferrer noopener external" href="https://www.youtube.com/watch?v=5eW6Eagr9XA" target="_blank" data-wpel-link="external">The 4 things it takes to be an expert</a> – <a href="https://www.linkedin.com/in/subhadip-panja-28612a18/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>Subhadip</strong> </a>recommended Veritasium a couple months back and I&#8217;ve since then become a fan of their videos. In this video, Dr. Derek talks about the 4 things that are required to become an expert at things and why you can’t have expert in every field</p>
-
-
-
-<h3><strong><em>Podcasts I’m listening</em></strong></h3>
-
-
-
-<p><a href="https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Sleep Toolkit: Tools For Optimizing Sleep &amp; Sleep-Wake Timing</a> &#8211; Dr. Huberman provides practical tips to improve and optimize sleep patterns. I&#8217;ve personally incorporated some of this (morning sunlight exposure, core body temperature rise, early dinner)  in my daily routine and can definitely see improvements in waking up energy, sleep quality etc.</p>
-
-
-
-<h3><strong><em>Tech Readings&nbsp;</em></strong></h3>
-
-
-
-<p><strong><em> </em></strong><a href="https://facebook.github.io/zstd/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">ZStandard</a> – Thanks <strong><a href="https://www.linkedin.com/in/subramaniajeeva/" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Jeeva</a></strong> for sharing this one. ZStandard is a fast compression algorithm, providing high compression ratios. It also offers a special mode for small data, called dictionary compression. The reference library offers a very wide range of speed / compression trade-off, and is backed by an extremely fast decoder</p>
-
-
-
-<h3><em>Quote I&#8217;m thinking about</em></h3>
-
-
-
-<blockquote class="wp-block-quote"><p>Everything that irritates us about others can lead us to an understanding of ourselves</p><cite>Carl Jung</cite></blockquote>
 </div>
 
 

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/category/collections/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sun, 06 Nov 2022 11:38:52 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Nov 2022 10:53:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,14 @@
 				<category><![CDATA[Collections]]></category>
 		<guid isPermaLink="false">/?p=393</guid>
 
-					<description><![CDATA[The world suffers a lot. Not because of the violence of bad people but because of the silence of good people Napolean Don’t be fooled [&#8230;]]]></description>
+					<description><![CDATA[You don’t stop having fun because you get old; You get Old because you stop having Fun Anon The world suffers a lot. Not because [&#8230;]]]></description>
 										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote">
+<p>You don’t stop having fun because you get old; You get Old because you stop having Fun</p>
+<cite>Anon</cite></blockquote>
+
+
+
 <blockquote class="wp-block-quote">
 <p>The world suffers a lot. Not because of the violence of bad people but because of the silence of good peop<strong>le</strong></p>
 <cite>Napolean</cite></blockquote>
@@ -297,7 +303,11 @@
 
 
 <ul>
-<li><a href="https://architecturenotes.co/redis/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Architecture Notes &#8211; Redis</a>&nbsp;– Architecture Notes is quickly becoming my go to place to reinforce fundamentals. I like the way the content is organized and presented in an effective way to makes learning fun.</li>
+<li><a href="https://blog.kagi.com/age-pagerank-over" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Age of PageRank is Over!</a>&nbsp;– With search patterns increasingly moving over from traditional search engines to products like TikTok, Instagram etc, it’s only natural that we’ll very soon have AI powered, hyper-personalized search systems that’ll determine what I see, read, use and recommend.</li>
+
+
+
+<li><a href="https://architecturenotes.co/redis/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Architecture Notes &#8211; Redis</a> – Architecture Notes is quickly becoming my go to place to reinforce fundamentals. I like the way the content is organized and presented in an effective way to makes learning fun.</li>
 
 
 
@@ -305,7 +315,7 @@
 
 
 
-<li><a href="https://dev.to/jeroendedauw/advice-for-junior-developers-30am" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Advice for Junior Developers</a> – I wish I read this before talking to a bunch of junior devs a couple days ago. This article presents an important list of things that budding devs should start assimilating as part of their work. While many of us would feel this is intuitive, actioning it needs intentional practice.</li>
+<li><a href="https://dev.to/jeroendedauw/advice-for-junior-developers-30am" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Advice for Junior Developers</a>&nbsp;– I wish I read this before talking to a bunch of junior devs a couple days ago. This article presents an important list of things that budding devs should start assimilating as part of their work. While many of us would feel this is intuitive, actioning it needs intentional practice.</li>
 
 
 
@@ -400,11 +410,15 @@
 
 
 <ul>
-<li><a href="https://hbr.org/video/6312276697112/how-to-work-with-a-passiveaggressive-coworker-the-harvard-business-review-guide" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to Work with a Passive-Aggressive Coworker</a>&nbsp;–&nbsp;From the HBR channel, this is an 8 min video episode with some great tips to deal with passive aggressive folks at work. We’ve all been there on both sides of the table and understanding this a bit more can help us all become a bit better.</li>
+<li><a href="https://hubermanlab.com/dr-layne-norton-the-science-of-eating-for-health-fat-loss-and-lean-muscle/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Dr. Layne Norton: The Science of Eating…</a>&nbsp;–&nbsp;From the Huberman Lab podcast, this is by far the most comprehensive information I’ve seen on diet, nutrition, Health &amp; the entire science behind it. Dr. Layne and Dr. Huberman cover a wide variety of important topics in this really long form episode, but you can find timestamps to sections that you can use to know about things you feel important.</li>
 
 
 
-<li><a href="https://hiddenbrain.org/podcast/thriving-in-the-face-of-contradiction/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Thriving In The Face Of Contradiction</a> – Another good one from Hidden Brain. From the podcast excerpt &#8211; “ <em>We all face tough decisions in life, whether we’re juggling the demands of work and family or deciding whether to take a new job. These situations often feel like either/or choices. But psychologist <a href="https://lerner.udel.edu/faculty-staff-directory/wendy-smith/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Wendy Smith</a> says this binary way of confronting dilemmas contains a trap. She offers a different way to think about difficult choices, one that opens unexpected possibilities.”</em></li>
+<li><a href="https://hbr.org/video/6312276697112/how-to-work-with-a-passiveaggressive-coworker-the-harvard-business-review-guide" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to Work with a Passive-Aggressive Coworker</a> – From the HBR channel, this is an 8 min video episode with some great tips to deal with passive aggressive folks at work. We’ve all been there on both sides of the table and understanding this a bit more can help us all become a bit better.</li>
+
+
+
+<li><a href="https://hiddenbrain.org/podcast/thriving-in-the-face-of-contradiction/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Thriving In The Face Of Contradiction</a>&nbsp;–&nbsp;Another good one from Hidden Brain. From the podcast excerpt &#8211; “ <em>We all face tough decisions in life, whether we’re juggling the demands of work and family or deciding whether to take a new job. These situations often feel like either/or choices. But psychologist <a href="https://lerner.udel.edu/faculty-staff-directory/wendy-smith/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Wendy Smith</a>&nbsp;says this binary way of confronting dilemmas contains a trap. She offers a different way to think about difficult choices, one that opens unexpected possibilities.”</em></li>
 
 
 
@@ -475,7 +489,11 @@
 
 
 <ul>
-<li><a href="https://www.youtube.com/watch?v=PXwStduNw14" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Mathematics is the sense you never knew you had!</a>&nbsp;–&nbsp;I wish I had a Maths teacher like Eddie woo. In this inspiring TED talk he makes a case for why Mathematics is a sense just like touch &amp; sound and in the process inspires us to think differently about it. I wish schools taught these early on.</li>
+<li><a href="https://www.youtube.com/watch?v=Z2Y0GMCFWq0" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Could one vaccine protect against everything?</a>&nbsp;– This is the same question I had when taking 3 shots of the COVID vaccine. I wonder how a world without diseases would look like and what would happen to the entire healthcare sector (apart from these vaccine makers) when this becomes true.</li>
+
+
+
+<li><a href="https://www.youtube.com/watch?v=PXwStduNw14" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Mathematics is the sense you never knew you had!</a> – I wish I had a Maths teacher like Eddie woo. In this inspiring TED talk he makes a case for why Mathematics is a sense just like touch &amp; sound and in the process inspires us to think differently about it. I wish schools taught these early on.</li>
 
 
 
@@ -483,7 +501,7 @@
 
 
 
-<li><a href="https://www.youtube.com/watch?v=IV3dnLzthDA" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Man Who Accidentally Killed The Most People In History</a> – How did one man’s effort or a specific business’s interest create a long standing health problem and environmental catastrophe of the modern world is the premise of this video. I personally learnt a lot of new and interesting things in the video. Some parts chemistry, some parts psychology and a bit of economics!</li>
+<li><a href="https://www.youtube.com/watch?v=IV3dnLzthDA" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Man Who Accidentally Killed The Most People In History</a>&nbsp;–&nbsp;How did one man’s effort or a specific business’s interest create a long standing health problem and environmental catastrophe of the modern world is the premise of this video. I personally learnt a lot of new and interesting things in the video. Some parts chemistry, some parts psychology and a bit of economics!</li>
 
 
 
@@ -566,7 +584,11 @@
 
 
 <ul>
-<li><a href="http://www.paulgraham.com/think.html" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to Think for yourself</a>&nbsp;– In this article, Paul Graham talks about importance of independent thinking. He also lists out what it means to be an independent thinker and the components of independent thinking and how we can nurture it. &nbsp;I resonate with the thought that you are largely influenced by the kind of people you surround yourself with, so be open to diverse experiences, meeting and learning from new people.</li>
+<li><a href="https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Technology that lets us “speak” to our dead relatives has arrived. Are we ready?</a> – Personally, I believe tech like this would only worsen grief than help. With AI getting significantly better each day, there’s going to be more dilemmas like these that we need to be prepared to handle.</li>
+
+
+
+<li><a href="http://www.paulgraham.com/think.html" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How to Think for yourself</a> – In this article, Paul Graham talks about importance of independent thinking. He also lists out what it means to be an independent thinker and the components of independent thinking and how we can nurture it.  I resonate with the thought that you are largely influenced by the kind of people you surround yourself with, so be open to diverse experiences, meeting and learning from new people.</li>
 
 
 
@@ -574,7 +596,7 @@
 
 
 
-<li><a href="https://jitha.substack.com/p/sunday-reads-164-how-much-would-you" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How much would you pay for a box that beeps!</a> – This article had interesting nuggets on how to pitch a product to the customer and set the price for it. It underscores the fact that customers don’t buy your product for its cutting-edge spec or features, they are buying it for solving their problem, so focus on the problem and you’ll never have to worry about lack of customers. This is applicable for everything that we do, day in and day out.</li>
+<li><a href="https://jitha.substack.com/p/sunday-reads-164-how-much-would-you" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">How much would you pay for a box that beeps!</a>&nbsp;– This article had interesting nuggets on how to pitch a product to the customer and set the price for it. It underscores the fact that customers don’t buy your product for its cutting-edge spec or features, they are buying it for solving their problem, so focus on the problem and you’ll never have to worry about lack of customers. This is applicable for everything that we do, day in and day out.</li>
 
 
 
