@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mySite/author/vikram-ramakrishnan/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
-	<lastBuildDate>Sun, 13 Nov 2022 10:53:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Nov 2022 16:07:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,79 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
+		<title>Friday Musings &#8211; 18/Nov/2022</title>
+		<link>/2022/11/18/friday-musings-18-nov-2022/</link>
+		
+		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 16:07:35 +0000</pubDate>
+				<category><![CDATA[Friday Musings]]></category>
+		<guid isPermaLink="false">/?p=493</guid>
+
+					<description><![CDATA[Articles I’ve read. Engineering Management: The Pendulum or the Ladder – I’ve personally encountered (even just a couple weeks ago) the question from senior engineers on [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="is-layout-flex wp-container-3 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3><strong><em>Articles I’ve read.</em></strong></h3>
+
+
+
+<p><a href="https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Engineering Management: The Pendulum or the Ladder</a> – I’ve personally encountered (even just a couple weeks ago) the question from senior engineers on whether they should explore Engineering management. This article shares many of points that I share personally and provides a way for engineers to analyze and determine how to move forward. While I don’t agree with some of the points mentioned in the article around skill deterioration, it still has a lot of valuable information that’ll help engineers evaluate career options.</p>
+
+
+
+<h3><strong><em>Videos I Watched</em></strong></h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=evUfG3lrk5U" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">What Happens If A Star Explodes Near The Earth?</a> – Another great video from Veritasium that proves that educational content can definitely be made in a very entertaining, crisp and joyful way. I learnt a lot of astronomy 101, long forgotten from my days at school. I wish schools adopt these techniques.</p>
+
+
+
+<h3><strong><em>Podcasts I’m Listening</em></strong></h3>
+
+
+
+<p><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9Xb3JrbGlmZVdpdGhBZGFtR3JhbnQ/episode/MTAwMDU4NjE2MzQyMA?hl=en-IN&amp;ved=2ahUKEwj3_MDf-7f7AhUS6XMBHR_2Dw0QjrkEegQIIxAF&amp;ep=6" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The problem with setting goals, with NFL linebacker Emmanuel Acho</a> – From Adam Grant’s Work Life Podcast, this is an interesting perspective on Goal setting and why we should pursue a life of significance instead of a goal based one and how that would be built-in with meaning and purpose becoming a source of motivation and propelling us towards success.</p>
+
+
+
+<h3><strong><em>Tech Readings  </em></strong></h3>
+
+
+
+<p><a href="https://www.intel.com/content/www/us/en/newsroom/news/intel-introduces-real-time-deepfake-detector.html#gs.ikckve" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Intel&#8217;s FakeCatcher</a> – You’ve heard me share in the past about how the latest advancements in AI around GPT-3, DALL-E2, Phenaki etc can potentially help create Deepfakes and why we needed another powerful AI to help us discern the difference. This was Intel’s announcement a couple days ago doing exactly the same. The tech behind this is interesting and accuracy rates are 96%!</p>
+
+
+
+<h3><em>Quote I&#8217;m thinking about</em></h3>
+
+
+
+<blockquote class="wp-block-quote">
+<p>In a world where you can be Anything, Be Kind!</p>
+<cite>Anon</cite></blockquote>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img decoding="async" src="http://cdn.mcauto-images-production.sendgrid.net/954c252fedab403f/698868b9-830d-4c42-a9f1-087b4b05c13e/422x463.png" alt=""/></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Friday Musings &#8211; 11/Nov/2022</title>
 		<link>/2022/11/11/friday-musings-11-nov-2022/</link>
 		
@@ -30,7 +103,7 @@
 
 					<description><![CDATA[Articles I’ve read. Technology that lets us “speak” to our dead relatives has arrived. Are we ready? – Personally, I believe tech like this would only [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-3 wp-block-columns">
+<div class="is-layout-flex wp-container-6 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -103,7 +176,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to Think for yourself – In this article, Paul Graham talks about importance of independent thinking. He also lists out what it [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-6 wp-block-columns">
+<div class="is-layout-flex wp-container-9 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -176,7 +249,7 @@
 
 					<description><![CDATA[Articles I’ve read. Non-linear workdays changing the shape of productivity – 9 to 5 work model is dead and as the world shifted to the hybrid [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-9 wp-block-columns">
+<div class="is-layout-flex wp-container-12 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -247,7 +320,7 @@
 
 					<description><![CDATA[Articles I’ve read. How much would you pay for a box that beeps! – This article had interesting nuggets on how to pitch a product to [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-12 wp-block-columns">
+<div class="is-layout-flex wp-container-15 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -318,7 +391,7 @@
 
 					<description><![CDATA[Articles I’ve read. 3 Types of Meetings — and How to Do Each One Well – A refresher on how to handle meetings in a hybrid [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-15 wp-block-columns">
+<div class="is-layout-flex wp-container-18 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -389,7 +462,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to have better Arguments?&#160;– Arguments are inevitable these days and it&#8217;s extremely important for us to understand the basics around arguing [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-18 wp-block-columns">
+<div class="is-layout-flex wp-container-21 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -460,7 +533,7 @@
 
 					<description><![CDATA[Articles I’ve read. Why It’s Hard To Learn From Our Mistakes – Though a clickbait-y title, there&#8217;s some key information shared in this article around common [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-21 wp-block-columns">
+<div class="is-layout-flex wp-container-24 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -531,7 +604,7 @@
 
 					<description><![CDATA[Articles I’ve read. How to deal with difficult people without losing your mind – Conflicts are inevitable in all walks of life and having an approach [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-24 wp-block-columns">
+<div class="is-layout-flex wp-container-27 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:66.66%">
 <div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -833,27 +906,6 @@
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Documentaries</title>
-		<link>/2022/09/10/documentaries/</link>
-		
-		<dc:creator><![CDATA[Vikram Ramakrishnan]]></dc:creator>
-		<pubDate>Sat, 10 Sep 2022 11:27:38 +0000</pubDate>
-				<category><![CDATA[Collections]]></category>
-		<guid isPermaLink="false">/?p=390</guid>
-
-					<description><![CDATA[&#8220;The extraordinary Genius of Albert Einstein ” (Youtube)- reflecting on the principle of relativity in terms of social relations and individual identities or thought processes, [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<ul><li>&#8220;<em>The extraordinary Genius of Albert Einstein</em> ” (<a href="https://www.youtube.com/watch?v=C8Zkd9VYdp4" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Youtube</a>)- reflecting on the principle of relativity in terms of social relations and individual identities or thought processes, asking the question &#8211; how was Einstein able to make his breakthrough?</li><li>&#8221; <em>Can we all become Geniuses</em> ” (<a href="https://www.discoveryplus.in/videos/morgan-freemans-through-the-wormhole/can-we-all-become-geniuses?seasonId=7&amp;type=EPISODE" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Discovery+)</a> &#8211; From the episode of &#8220;Through the Wormhole&#8221; narrated by Morgan Freeman &#8211; Genius lies somewhere in the human mind, bringing mathematical insight, sparking artistic inspiration and enabling some to see what most cannot. Might we augment our biology with technology to unlock the genius inside us all?</li><li><a href="https://www.youtube.com/watch?v=bFCOm1P_cQQ" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">The Brain that changes itself</a> – Our Brain is fantastic and continues to amaze researchers trying to unlock its secrets. You would’ve heard people say Change is hard and most people hate change, but if you look deep, your body and specifically your Brain is tuned efficiently adapt, handle and thrive with continuous changes.</li><li><a href="https://www.youtube.com/watch?v=GYHu0ivfR_o" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Ancient Aliens &#8211; Puzzling Pillars</a> – Temple pillars that can sing and reverberate. No existing technology can easily reproduce these ancient marvels at the scale it was done. One wonders, where&#8217;s all that lost knowledge from Ancient India. While I’ve still not visited Hampi, i was personally fortunate to experience the sounds from these stone pillars that <a href="https://en.wikipedia.org/wiki/Nellaiappar_Temple" data-wpel-link="external" target="_blank" rel="external noopener noreferrer">Sri Nellayappar Temple in Tirunelveli</a>.</li></ul>
 ]]></content:encoded>
 					
 		
